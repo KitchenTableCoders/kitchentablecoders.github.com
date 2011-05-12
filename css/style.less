@@ -12,7 +12,11 @@
 /* GLOBAL
 ----------------------------------------------- */
 html {
-	background: url(skin/bg_html.png) repeat 0 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+	background: white;
 	color: #1a1a1a;
 }
 .left {
@@ -48,30 +52,23 @@ html {
 /* LINK
 -------------------------------------------------------- */
 a:link {
-	color: #1a1a1a;
 	text-decoration: none;
 	border-bottom: 1px dotted #1a1a1a;
 }
 a:visited {
-	color: #383838;
 	text-decoration: none;
 	border-bottom: 1px dotted #383838;
 }
 a:hover {
-	color: #555555;
 	text-decoration: none;
-	border-bottom: 1px dotted #555555;
 }
 .home a:link {
-	color: #1a1a1a;
 	border-bottom: 0;
 }
 .home a:visited {
-	color: #383838;
 	border-bottom: 0;
 }
 .home a:hover {
-	color: #555555;
 	border-bottom: 0;
 }
 /* HEADER
@@ -82,12 +79,24 @@ a:hover {
 	font-weight: bold;
 	text-shadow: 0px 1px 0px #fff;
 }
-.logo { font-size: 4.5em;
+.logo {
+  text-align: center;
+  width: 100%;
+  font-family: Georgia;
+  font-size: 52px;
+  color: #DCDEE0;
 	a:link { border-bottom: 0 none;	}
 	a:visited {	border-bottom: 0 none; }
 	a:hover { border-bottom: 0 none; }
 }
-.tagline { margin-left: 5px; }
+.logo a {
+  color: #DCDEE0;
+}
+.tagline {
+  margin-left: 5px;
+  text-align: center;
+  width: 100%;
+}
 /* MAIN
 ----------------------------------------------- */
 .hd_article .btn { margin-top: 3px; }

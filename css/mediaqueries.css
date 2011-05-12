@@ -19,7 +19,6 @@ img { max-width: 100%; }
 .pagenation ul,
 .foot_inner {
 	padding: 0 60px 0;
-	width: 648px;
 }
 body.post .content h1, body.post .content h2, body.post .content h3, body.post .content h4, body.post .content h5, body.post .content h6 { margin-left: 0; }
 body.post .content p, body.post .content ul, body.post .content ol, body.post .content dl, body.post .content blockquote { margin-left: 0; }
@@ -28,7 +27,7 @@ body.post .content img.huge {
 	max-width: 628px;
 }
 
-#foot .hasGrid div { width: 648px; }
+#foot .hasGrid div { }
 
 /*	13-column layout
 	60 px columns, 24 px gutters, 72 px margins, 1212 px total (extra space for scrollbars)
@@ -44,7 +43,6 @@ body.post .content img.huge {
 	.pagenation ul,
 	.foot_inner { 
 		padding: 0 72px 0;
-		width: 1068px;
 	}
 	body.post .content h1, body.post .content h2, body.post .content h3, body.post .content h4, body.post .content h5, body.post .content h6 { margin-left: 252px; }
 	body.post .content p, body.post .content ul, body.post .content ol, body.post .content dl, body.post .content blockquote { margin-left: 252px; }
@@ -52,7 +50,7 @@ body.post .content img.huge {
 		left: -252px;
 		max-width: 1048px;
 	}
-	#foot .hasGrid div { width: 480px; }
+	#foot .hasGrid div { }
 }
 
 /*	5-column layout
@@ -74,7 +72,6 @@ body.post .content img.huge {
 	.pagenation ul,
 	.foot_inner {
 		padding: 0 42px 0;
-		width: 396px;
 	}
 	body.post .content img.huge { max-width: 376px; }
 	#foot .hasGrid div { width: 396px; }

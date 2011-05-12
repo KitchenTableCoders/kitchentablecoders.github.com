@@ -1,5 +1,12 @@
 ---
 ---
+#page {
+    position: absolute;
+    width: 800px;
+    left: 50%;
+    margin-left: -400px;
+    border: 1px solid black;
+}
 /* clearfix
 ----------------------------------------------------------------------------------------------------*/
 .clearfix:after,
@@ -71,15 +78,12 @@ h6, .h6 {
 /* LINK
 -------------------------------------------------------- */
 a:link {
-	color: #1a1a1a;
 	text-decoration: none;
 }
 a:visited {
-	color: #383838;
 	text-decoration: none;
 }
 a:hover {
-	color: #555555;
 	text-decoration: none;
 }
 /* P UL OL DL, IMG

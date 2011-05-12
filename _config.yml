@@ -1,7 +1,7 @@
 # MUST EDIT BELOW
-sitename: the_minimum       #Your site title
-tagline: themes for jekyll  #You should always have a tagline
-url: http://your.site.com   #URL Please
+sitename: Kitchen Table Coders
+tagline: Workshops on the craft of creative coding in all its forms
+url: http://kitchentablecoders.github.com
 ga: UA-XXXXX-X              #Google Analytics ID
 sitemap: GOOGLEWEBMASTER    #Google webmaster verification code
 # END
