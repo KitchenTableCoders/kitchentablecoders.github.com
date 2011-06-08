@@ -110,3 +110,27 @@ em { font-weight: bold; }
 	font-weight: normal;
 	line-height: inherit;
 }
+
+/* Site Wide Navigation */
+
+#nav {
+    text-align: center;
+    height: 30px;
+    width: 100%;
+    padding: 0px 0px 20px 0px;
+}
+#nav ul {
+    margin-left: 90px;
+}
+#nav li {
+    float: left;
+    font-size: 30px;
+    width: 150px;
+    text-align: center;
+}
+#nav li.selected {
+    color: red;
+}
+#main {
+    clear: both;
+}
