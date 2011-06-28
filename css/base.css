@@ -113,24 +113,61 @@ em { font-weight: bold; }
 
 /* Site Wide Navigation */
 
-#nav {
+#nav ul {
     text-align: center;
     height: 30px;
     width: 100%;
     padding: 0px 0px 20px 0px;
 }
-#nav ul {
-    margin-left: 90px;
-}
-#nav li {
+#nav ul li {
     float: left;
     font-size: 30px;
-    width: 150px;
+    width: 160px;
     text-align: center;
+    list-style: none;
 }
-#nav li.selected {
+#nav ul li.selected {
     color: red;
 }
+#ktc-est {
+    text-align: center;
+    font-style: italic;
+    font-size: 12px;
+    color: red;
+}
+
 #main {
     clear: both;
+}
+
+/* About columns */
+
+#cols {
+    width: 100%;
+    margin-top: 40px;
+}
+
+#cols div {
+    padding: 10px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    width: 50%;
+}
+
+#cols div p font {
+    color: red;
+    padding-right: 10px;
+}
+
+#cols div p {
+    font-size: 22px;
+}
+
+#cols #left {
+    float: left;
+}
+
+#cols #right {
+    float: right;
 }

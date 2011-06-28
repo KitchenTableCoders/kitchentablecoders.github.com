@@ -2,15 +2,6 @@
 <body class="{{ page.layout }}">
     <div id="page">
         {% include header.html %}
-
-        <div id="nav">
-            <ul>
-                {% for section in site.sections %}
-                <li><a>{{ section.title }}</a></li>
-                {% endfor %}
-            </ul>
-        </div>
-
         <div id="main" role="main">
             <div class="main_inner">
                 <article class="the_article">
