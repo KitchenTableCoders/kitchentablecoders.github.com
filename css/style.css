@@ -131,6 +131,9 @@ a:hover {
 .the_article img.right { margin-left: 12px; }
 /* If home */
 body.home .the_article { background: none; }
+body.home .the_article .posts {
+    margin-top: 40px;
+}
 body.home .the_article .posts li {
     list-style: none;
     margin-bottom: 24px;
