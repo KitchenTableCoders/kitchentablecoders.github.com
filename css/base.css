@@ -111,6 +111,13 @@ em { font-weight: bold; }
 	line-height: inherit;
 }
 
+/* Logo img */
+#logo-img-container {
+    margin-top: 25px;
+    text-align: center;
+    height: 90px;
+}
+
 /* Site Wide Navigation */
 
 #nav ul {
