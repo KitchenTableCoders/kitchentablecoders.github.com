@@ -182,3 +182,16 @@ em { font-weight: bold; }
 #cols #right {
     float: right;
 }
+
+/* About */
+
+#studio-img-container {
+    float: left;
+    margin-top: 40px;
+    text-align: center;
+    clear: both;
+}
+#studio-img-container img {
+    border: 1px #ccc solid;
+    padding: 2px;
+}
