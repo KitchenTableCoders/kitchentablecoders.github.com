@@ -204,3 +204,9 @@ em { font-weight: bold; }
     border: 1px #ccc solid;
     padding: 2px;
 }
+
+/* Courses */
+
+.backnumber {
+    text-align: right;
+}
