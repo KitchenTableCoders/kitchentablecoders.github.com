@@ -184,7 +184,7 @@ body.post .content .highlight:before {
     margin: 0 0 7px 7px;
 }
 body.post .content .highlight pre {
-    border: 1px solid #ddd; 
+    border: 1px solid #ddd;
     margin-left: 0;
     padding: 10px;
     overflow: auto;
@@ -201,9 +201,10 @@ body.post .content .highlight pre {
 ----------------------------------------------- */
 
 #foot { 
-    background: #a4a2a0;
-    background: rgba(164,162,160,0.8);
+    text-align: center;
+    font-family: Georgia;
     padding: 0 0 24px;
+    border-top: 1px solid #ccc;
 }
 
 #foot ul {

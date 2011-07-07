@@ -9,5 +9,7 @@ sitemap: GOOGLEWEBMASTER    #Google webmaster verification code
 pygments:    true
 markdown:    maruku
 permalink:   pretty
+auto: true
+server: true
 # END
 exclude: LICENSE, README.markdown, Rakefile

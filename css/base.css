@@ -111,6 +111,13 @@ em { font-weight: bold; }
 	line-height: inherit;
 }
 
+/* Logo img */
+#logo-img-container {
+    margin-top: 25px;
+    text-align: center;
+    height: 90px;
+}
+
 /* Site Wide Navigation */
 
 #nav ul {
@@ -135,6 +142,20 @@ em { font-weight: bold; }
     font-size: 12px;
     color: red;
 }
+#nav ul li a {
+    text-decoration: none;
+    padding-bottom: 6px;
+}
+#nav ul li a:visited {
+    color: black
+}
+#nav ul li.selected a,
+#nav ul li.selected a:visited {
+    color: red;
+    border-bottom: 1px solid #ccc;
+}
+
+/* Main */
 
 #main {
     clear: both;
@@ -170,4 +191,17 @@ em { font-weight: bold; }
 
 #cols #right {
     float: right;
+}
+
+/* About */
+
+#studio-img-container {
+    float: left;
+    margin-top: 40px;
+    text-align: center;
+    clear: both;
+}
+#studio-img-container img {
+    border: 1px #ccc solid;
+    padding: 2px;
 }
