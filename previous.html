@@ -1,0 +1,18 @@
+---
+layout: home
+title: Previous Workshops
+description: Previous Workshops
+---
+<h1>Previous Workshops</h1>
+<nav>
+<ul class="posts">
+    {% for post in site.posts offset:4 %}
+    <li>
+    <a href="{{ post.url }}" class="h3">{{ post.title }}</a>
+    <small>
+        <date>{{ post.date | date_to_string }}</date>
+    </small>
+    </li>
+    {% endfor %}
+</ul>
+</nav>
