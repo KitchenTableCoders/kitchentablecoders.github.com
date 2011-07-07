@@ -185,10 +185,11 @@ body.post .content .highlight pre {
 /* FOOTER
 ----------------------------------------------- */
 
-#foot { 
+#foot {
     text-align: center;
     font-family: Georgia;
     padding: 0 0 24px;
+    padding-top: 15px;
     border-top: 1px solid #ccc;
 }
 
