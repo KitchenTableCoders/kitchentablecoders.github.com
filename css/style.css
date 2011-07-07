@@ -78,15 +78,24 @@ a:hover {
 #head { margin-bottom: 24px; }
 #head ul li {
     display: inline-block;
-    font-weight: bold;
+  /* font-weight: bold; 
     text-shadow: 0px 1px 0px #fff;
+    */
 }
 .logo {
     text-align: center;
     width: 100%;
-    font-family: Georgia;
-    font-size: 52px;
     color: #DCDEE0;
+    font-family: 'Hiragino Minch Gothic ProN','Quattrocento', 'Georgia', serif;
+    font-size: 48px;
+    font-style: lighter;
+    font-weight: 400;
+    text-shadow: none;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: 0.042em;
+    word-spacing: 0em;
+    line-height: 1.2;
 }
 .logo a:link { border-bottom: 0 none;    }
 .logo a:visited {    border-bottom: 0 none; }
@@ -97,7 +106,13 @@ a:hover {
 .tagline {
     margin-left: 5px;
     text-align: center;
+    font-family: 'Hiragino Minch Gothic ProN','Quattrocento', 'Georgia', serif; 
     width: 100%;
+    font-size: 16px;
+    font-style: lighter;
+    font-weight: 100;
+
+
 }
 
 /* MAIN
