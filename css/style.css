@@ -111,15 +111,12 @@ a:hover {
     font-size: 16px;
     font-style: lighter;
     font-weight: 100;
-
-
 }
 
 /* MAIN
 ----------------------------------------------- */
 .hd_article .btn { margin-top: 3px; }
 .the_article {
-    background: #fafafa;
 }
 .the_article .article_inner {
     padding-top: 24px;
@@ -250,6 +247,11 @@ body.post .content .highlight pre {
 #suggest a,
 #suggest a:visited {
     color: #6CBB56;
+}
+
+.main_inner {
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 /* FOOTER

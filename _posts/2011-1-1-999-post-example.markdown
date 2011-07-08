@@ -2,6 +2,7 @@
 layout: post
 style: text
 title: 999_post_example
+upcoming: false
 ---
 
 *This is a post example.*

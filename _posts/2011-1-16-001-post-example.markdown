@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introduction to Creative Coding with OpenFrameworks
+upcoming: true
 ---
 
 *This is a post example.*  

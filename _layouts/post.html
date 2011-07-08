@@ -5,6 +5,11 @@
         <div id="main" role="main">
             <div class="main_inner">
                 <header class="hd_article">
+                    {% if page.upcoming %}
+                    <h1 class="isupcoming">An upcoming workshop</h1>
+                    {% else %}
+                    <h1 class="isupcoming">A previous workshop</h1>
+                    {% endif %}
                     <h1>{{ page.title }}</h1>
                         <div class="meta">
                             <date title="{{ page.date | date_to_xmlschema }}">

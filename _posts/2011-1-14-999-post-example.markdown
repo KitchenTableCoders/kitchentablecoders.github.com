@@ -2,6 +2,7 @@
 layout: post
 style: text
 title: Advanced Introduction to Functional Programming with Clojure
+upcoming: true
 ---
 
 *This is a post example.*

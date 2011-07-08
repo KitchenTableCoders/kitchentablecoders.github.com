@@ -2,6 +2,7 @@
 layout: post
 style: text
 title: Functional Programming In JavaScript
+upcoming: true
 ---
 
 *This is a post example.*
