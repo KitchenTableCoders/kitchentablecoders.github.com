@@ -1,7 +1,7 @@
 ---
 layout: post
 style: text
-title: 999_post_example
+title: Advanced Introduction to Functional Programming with Clojure
 ---
 
 *This is a post example.*

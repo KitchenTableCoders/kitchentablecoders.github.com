@@ -229,14 +229,27 @@ body.post .content .highlight pre {
 .post-link a:visited {
 }
 
-.previous {
-    color: #338AF6;
-    text-align: right;
-    margin-bottom: 20px;
+#previous {
+    margin-bottom: 40px;
 }
 
+#previous a,
+#previous a:visited {
+    color: #338AF6;
+}
+
+.article-link date,
 .caption {
     font-size: 16px;
+}
+
+#suggest {
+    margin-bottom: 40px;
+}
+
+#suggest a,
+#suggest a:visited {
+    color: #6CBB56;
 }
 
 /* FOOTER
@@ -247,7 +260,8 @@ body.post .content .highlight pre {
     font-family: Georgia;
     padding: 0 0 24px;
     padding-top: 15px;
-    border-top: 1px solid #ccc;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 #foot ul {

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 001_post_example
+title: Introduction to Creative Coding with OpenFrameworks
 ---
 
 *This is a post example.*  

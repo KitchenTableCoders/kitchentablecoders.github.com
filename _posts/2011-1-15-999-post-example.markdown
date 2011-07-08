@@ -1,7 +1,7 @@
 ---
 layout: post
 style: text
-title: 999_post_example
+title: Functional Programming In JavaScript
 ---
 
 *This is a post example.*

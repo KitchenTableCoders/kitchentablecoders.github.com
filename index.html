@@ -18,17 +18,22 @@ description: this is where your meta description for top page.
 <ul class="posts">
     {% for post in site.posts limit:4 %}
     <li class="article-link">
-    <a href="{{ post.url }}" class="h3">{{ post.title }}</a>
-    <small>
-        <date>{{ post.date | date_to_string }}</date>
-    </small>
+        <date title="{{ post.date | date_to_xmlschema }}">
+            <span class="day-of-week">{{ post.date | date: '%A' }}</span>
+            <span class="month">{{ post.date | date: '%B' }}</span>,
+            <span class="day">{{ post.date | date: '%d' }}</span>
+            <span>@ Brooklyn, NY</span>
+        </date>
+        <div>
+            <a href="{{ post.url }}" class="h3">{{ post.title }}</a>
+        </div>
     </li>
     {% endfor %}
 </ul>
 <div class="border"></div>
 {% if site.posts.size > 4 %}
 <div id="previous" class="post-link">
-    <a href="/previous/" title="previous">See our previous workshops</a>
+    <a href="/previous/">See our previous workshops</a>
     <div class="caption">You can also ask us do redo them, and we'll do our best!</div>
 </div>
 {% endif %}
