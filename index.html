@@ -14,19 +14,26 @@ description: this is where your meta description for top page.
          ~ Est. 2011 Brooklyn NY 11211 ~
      </div>
 </div>
-<h1>All upcoming workshops</h1>
+<h1 id="upcoming">All upcoming workshops</h1>
 <ul class="posts">
-    {% for post in site.posts limit:10 %}
+    {% for post in site.posts limit:4 %}
     <li class="article-link">
     <a href="{{ post.url }}" class="h3">{{ post.title }}</a>
     <small>
         <date>{{ post.date | date_to_string }}</date>
     </small>
     </li>
-    {% if forloop.length == 10 %}
-        {% if forloop.last == true %}
-            <li class="backnumber"><a href="/previous/" class="btn" title="previous">Previous Workshops</a></li>
-        {% endif %}
-    {% endif %}
     {% endfor %}
 </ul>
+<div class="border"></div>
+{% if site.posts.size > 4 %}
+<div id="previous" class="post-link">
+    <a href="/previous/" title="previous">See our previous workshops</a>
+    <div class="caption">You can also ask us do redo them, and we'll do our best!</div>
+</div>
+{% endif %}
+<div id="suggest" class="post-link">
+    <a href="#">Suggest a new workshop</a>
+    <div class="caption">Let us know what you'd like to learn. We often pick up on great suggestions</div>
+</div>
+

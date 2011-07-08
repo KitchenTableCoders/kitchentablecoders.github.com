@@ -132,6 +132,8 @@ a:hover {
 /* If home */
 body.home .the_article { background: none; }
 body.home .the_article .posts {
+    margin-left: 40px;
+    margin-right: 40px;
     margin-top: 40px;
 }
 body.home .the_article .posts li {
@@ -146,8 +148,15 @@ body.home .the_article .posts li small {
     top: 1px;
     date { margin-left: 12px; }
 }
+body.home .the_article .posts .article-link a,
+body.home .the_article .posts .article-link a:visited {
+    font-size: 24px;
+    color: #FF8352;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
 body.home .the_article .posts .article-link {
-    border-bottom: 1px dotted #a7a7a7;
+    color: #FF8352
     -webkit-box-shadow: 0px 1px 0px rgba(255,255,255,0.6);
     -moz-box-shadow: 0px 1px 0px rgba(255,255,255,0.6);
     box-shadow: 0px 1px 0px rgba(255,255,255,0.6);
@@ -198,6 +207,36 @@ body.post .content .highlight pre {
 .pagenation {
     padding: 24px 0;
     overflow: hidden; zoom: 1;
+}
+
+.border {
+    height: 1px;
+    border-top: 1px solid #ccc;
+    margin-bottom: 40px;
+    margin-left: 40px;
+}
+
+.post-link {
+    margin-left: 40px;
+    font-family: Helvetica, Arial, sans-serify;;
+    font-weight: normal;
+}
+
+.post-link a {
+    font-size: 24px;
+}
+
+.post-link a:visited {
+}
+
+.previous {
+    color: #338AF6;
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+.caption {
+    font-size: 16px;
 }
 
 /* FOOTER

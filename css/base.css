@@ -207,6 +207,11 @@ em { font-weight: bold; }
 
 /* Courses */
 
-.previous {
-    text-align: right;
+#upcoming {
+    margin-left: 40px;
+    font-size: 28px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    color: #606060;
 }
+
