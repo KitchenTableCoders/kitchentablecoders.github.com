@@ -6,10 +6,17 @@
             <div class="main_inner">
                 <header class="hd_article">
                     {% if page.upcoming %}
-                    <h1 class="isupcoming">An upcoming workshop</h1>
+                    <h1 class="isupcoming">
+                        An upcoming workshop
+                    </h1>
                     {% else %}
-                    <h1 class="isupcoming">A previous workshop</h1>
+                    <h1 class="isupcoming">
+                        A previous workshop
+                    </h1>
                     {% endif %}
+                    <div id="back">
+                        <a href="/">back</a>
+                    </div>
                 </header>
                 <article class="the_article">
                 <div class="article_inner">
@@ -20,31 +27,40 @@
                     <div class="rightcol">
                         <div class="meta">
                             <div>
-                                <button>Register</button>
+                                <button id="register">Register</button>
                             </div>
-                            <date title="{{ page.date | date_to_xmlschema }}">
-                                <span class="published">Date: </span>
-                                <span class="day">{{ page.class_date | date: '%d' }}</span>
-                                <span class="month"><abbr>{{ page.class_date | date: '%b' }}</abbr></span>
-                                <span class="year">{{ page.class_date | date: '%Y' }}</span>
-                                <div>
-                                    <span class="start">{{ page.start }}</span>-<span class="start">{{ page.end }}</span>
-                                </div>
-                            </date>
+                            <div id="class-date">
+                                <date title="{{ page.date | date_to_xmlschema }}">
+                                    <span class="day">{{ page.class_date | date: '%d' }}</span>
+                                    <span class="month"><abbr>{{ page.class_date | date: '%b' }}</abbr></span>
+                                    <span class="year">{{ page.class_date | date: '%Y' }}</span>
+                                    <div>
+                                        <span class="start">{{ page.start }}</span>-<span class="start">{{ page.end }}</span>
+                                    </div>
+                                </date>
+                            </div>
                             <div>
                                 {{ page.location }}
                             </div>
                             <div id="fee-list">
                                 {% for fee in page.fee_list %}
-                                <div>{{ fee.key }} : {{ fee.value }}</div>
+                                <div>{{ fee[0] }} - {{ fee[1] }}</div>
                                 {% endfor %}
+                            </div>
+                            <div id="corporate">
+                                Please <a href="#">contact us</a> for corporate accounts.
                             </div>
                         </div>
                     </div>
                 </div>
+                <div id="ask">
+                    <a href="#">Ask us anything about this class</a>
+                    <div class="buttons"></div>
+                </div>
                 </article>
             </div>
         </div><!-- id="main" -->
+        {% if false %}
         <nav class="pagenation">
            <ul>
                {% if page.previous %}
@@ -55,6 +71,7 @@
                {% endif %}
            </ul>
         </nav>
+        {% endif %}
         {% include footer.html %}
     </div><!-- id="page" -->
     {% include system_foot.html %}
