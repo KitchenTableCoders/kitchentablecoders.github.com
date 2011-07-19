@@ -128,7 +128,7 @@ em { font-weight: bold; }
 #nav ul li {
     float: left;
     font-size: 30px;
-    width: 160px;
+    width: 142px;
     text-align: center;
     list-style: none;
 }
@@ -144,9 +144,10 @@ em { font-weight: bold; }
 #nav ul li a {
     text-decoration: none;
     padding-bottom: 6px;
+    color: black;
 }
 #nav ul li a:visited {
-    color: black
+    color: black;
 }
 #nav ul li.selected a,
 #nav ul li.selected a:visited {
