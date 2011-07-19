@@ -10,19 +10,37 @@
                     {% else %}
                     <h1 class="isupcoming">A previous workshop</h1>
                     {% endif %}
-                    <h1>{{ page.title }}</h1>
+                </header>
+                <article class="the_article">
+                <div class="article_inner">
+                    <div class="leftcol">
+                        <h1>{{ page.title }}</h1>
+                        <div class="content">{{ content }}</div>
+                    </div>
+                    <div class="rightcol">
                         <div class="meta">
+                            <div>
+                                <button>Register</button>
+                            </div>
                             <date title="{{ page.date | date_to_xmlschema }}">
                                 <span class="published">Date: </span>
                                 <span class="day">{{ page.class_date | date: '%d' }}</span>
                                 <span class="month"><abbr>{{ page.class_date | date: '%b' }}</abbr></span>
                                 <span class="year">{{ page.class_date | date: '%Y' }}</span>
+                                <div>
+                                    <span class="start">{{ page.start }}</span>-<span class="start">{{ page.end }}</span>
+                                </div>
                             </date>
+                            <div>
+                                {{ page.location }}
+                            </div>
+                            <div id="fee-list">
+                                {% for fee in page.fee_list %}
+                                <div>{{ fee.key }} : {{ fee.value }}</div>
+                                {% endfor %}
+                            </div>
                         </div>
-                </header>
-                <article class="the_article">
-                <div class="article_inner">
-                    <div class="content">{{ content }}</div>
+                    </div>
                 </div>
                 </article>
             </div>
