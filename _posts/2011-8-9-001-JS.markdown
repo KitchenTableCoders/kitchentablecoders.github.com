@@ -1,0 +1,18 @@
+---
+layout: post
+style: text
+title: JavaScript
+class_date: 2011-8-9
+upcoming: true
+start: 12pm
+end: 5pm
+location: Brooklyn, NY
+registration_url: http://foo.com
+fee_list: [["Students", "$75"],
+           ["Freelancers", "$130"],
+           ["Everyone Else", "$150"]]
+---
+
+Some JavaScript.
+
+*Perquisites:* Web browser.
