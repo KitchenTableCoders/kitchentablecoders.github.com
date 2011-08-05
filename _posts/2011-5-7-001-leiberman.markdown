@@ -1,0 +1,24 @@
+---
+layout: post
+style: text
+title: Intro to GLSL (OpenGL + Shaders) using OpenFrameworks w/Special Guest Zach Lieberman
+class_date: 2011-5-7
+upcoming: false
+start: 10am
+end: 2pm
+location: Brooklyn, NY
+registration_url: http://kitchentable8-eorg.eventbrite.com/
+fee_list: [["Students", "$40"],
+           ["Freelancers", "$80"],
+           ["Everyone Else", "$200"]]
+---
+
+This workshop gives an introduction to modern opengl mechanics, focusing on new parts of opengl such as the frame and vertex buffer objects, and more specifically on GLSL / shader programming, it's history and mechanics.  In order to fully understand these system, we will take a step back and wrap our heads around the opengl pipeline, and how vertex, fragment and geometry shaders open that up to powerful creative manipulation.     The workshop will be taught using the new branch of openframeworks (007), and we will look at tools for experimenting on, developing, debugging and sharing shaders.   By the end, hopefully opening up a new avenue of creative play and experimentation. 
+
+Participants should have basic familiarity with openframeworks or opengl. Participants should also have a laptop with a modern / decent graphics card so they can experiment with these techniques -- for example, integrated intel graphics cards might prove problematic.
+
+~
+
+This workshop is part of a weekly seriese of workshops that we run at our Kitchen Table in Brooklyn. Here's a list of previous workshops, and where we'll be posting new ones:  <a href="http://kitchentable.eventbrite.com">http://kitchentable.eventbrite.com</a> 
+This week we're happy to post Zach Lieberman. Read all about him here: <a href="http://thesystemis.com/">http://thesystemis.com/</a>
+ 
