@@ -1,7 +1,7 @@
 ---
 layout: post
 style: text
-title: Introduction to Creative Programming with Javascript and HTML 5 Canvas
+title: Intro to Creative Programming with Javascript and HTML 5 Canvas
 class_date: 2011-7-23
 upcoming: false
 start: 11:30am
@@ -19,4 +19,4 @@ By writing simple graphics programs with the HTML5 Canvas tag, we'll learn about
 
 No experience is required - just bring your laptop and make sure you're running a modern browser (Safari 5, Firefox 3+, Google Chrome, Internet Explorer 9). We'll provide you with a simple HTML file for our experiments.
 
-*Prequisites:* Web browser.
+*Prerequisites:* Web browser.
