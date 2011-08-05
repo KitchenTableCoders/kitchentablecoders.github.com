@@ -16,12 +16,14 @@ description: this is where your meta description for top page.
 </div>
 <ul class="posts">
     {% for post in site.posts limit:10 %}
+    {% if post.upcoming %}
     <li class="article-link">
     <a href="{{ post.url }}" class="h3">{{ post.title }}</a>
     <small>
         <date>{{ post.date | date_to_string }}</date>
     </small>
     </li>
+    {% endif %}
     {% if forloop.length == 10 %}
         {% if forloop.last == true %}
             <li class="backnumber"><a href="/backnumber/" class="btn" title="backnumber">Backnumber</a></li>

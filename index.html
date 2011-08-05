@@ -16,7 +16,8 @@ description: this is where your meta description for top page.
 </div>
 <h1 id="upcoming">All upcoming workshops</h1>
 <ul class="posts">
-    {% for post in site.posts limit:4 %}
+    {% for post in site.posts %}
+    {% if post.upcoming %}
     <li class="article-link">
         <date title="{{ post.date | date_to_xmlschema }}">
             <span class="day-of-week">{{ post.date | date: '%A' }}</span>
@@ -28,6 +29,7 @@ description: this is where your meta description for top page.
             <a href="{{ post.url }}" class="h3">{{ post.title }}</a>
         </div>
     </li>
+    {% endif %}
     {% endfor %}
 </ul>
 <div class="border"></div>
