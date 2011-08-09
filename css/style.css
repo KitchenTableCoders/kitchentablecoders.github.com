@@ -254,6 +254,17 @@ body.post .content .highlight pre {
     color: #FF8352;
 }
 
+#previous-title {
+    font-weight: normal;
+    font-size: 34px;
+    margin-left: 40px;
+}
+
+#previous-title div {
+    font-size: 16px;
+    margin: 0;
+}
+
 .article-link date,
 .caption {
     font-size: 16px;

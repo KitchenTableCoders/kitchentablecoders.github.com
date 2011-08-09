@@ -3,8 +3,21 @@ layout: home
 title: Previous Workshops
 description: Previous Workshops
 ---
-<h1>Previous Workshops</h1>
-<nav>
+<div id="nav">
+     <ul>
+         <li><a href="/about/">About</a></li>
+         <li class="selected"><a href="/">Courses</a></li>
+         <li><a href="/goodies/">Goodies</a></li>
+         <li><a href="/contact/">Contact</a></li>
+     </ul>
+     <div id="ktc-est">
+         ~ Est. 2011 Brooklyn NY 11211 ~
+     </div>
+</div>
+<h2 id="previous-title">
+    All previous workshops
+    <div>See anything you like? Feel free to email us and we'll try to redo it!</div>
+</h2>
 <ul class="posts">
     {% for post in site.posts %}
     {% if post.upcoming == false %}
