@@ -318,3 +318,19 @@ body.post .content .highlight pre {
     list-style: square;
     padding-left: 1em;
 }
+
+a#corporate-contact,
+a#ask-anything {
+    color: #338AF6;
+}
+
+a#corporate-contact:visited,
+a#ask-anything:visited {
+    color: #338AF6;
+}
+
+a#corporate-contact:hover,
+a#ask-anything:hover {
+    color: #338AF6;
+    text-decoration: none;
+}
