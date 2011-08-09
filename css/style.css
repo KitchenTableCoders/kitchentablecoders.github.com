@@ -142,6 +142,16 @@ body.home .the_article .posts li {
 body.home .the_article .posts li div {
     width: 415px;
 }
+body.home .the_article .posts li div a {
+    color: #338AF6;
+}
+body.home .the_article .posts li div a:hover {
+    color: #338AF6;
+    text-decoration: underline;
+}
+body.home .the_article .posts li div a:visited {
+    color: #338AF6;
+}
 body.home .the_article .posts li small {
     position: absolute;
     right: 0;
@@ -229,13 +239,19 @@ body.post .content .highlight pre {
 .post-link a:visited {
 }
 
-#previous {
+#previous,
+#upcoming {
     margin-bottom: 40px;
 }
 
 #previous a,
 #previous a:visited {
     color: #338AF6;
+}
+
+#upcoming a,
+#upcoming a:visited {
+    color: #FF8352;
 }
 
 .article-link date,
