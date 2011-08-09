@@ -274,6 +274,24 @@ body.post .content .highlight pre {
     margin-bottom: 40px;
 }
 
+#suggest .link {
+    float: left;
+}
+
+.linkimg {
+    float: left;
+    height: 2.5em;
+}
+
+.caption {
+    clear: both;
+}
+
+#suggest img {
+    float: left;
+    margin-left: 10px;
+}
+
 #suggest a,
 #suggest a:visited {
     color: #6CBB56;
