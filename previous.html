@@ -9,7 +9,9 @@ description: Previous Workshops
     {% for post in site.posts %}
     {% if post.upcoming == false %}
     <li>
-    <a href="{{ post.url }}" class="h3">{{ post.title }}</a>
+        <div>
+            <a href="{{ post.url }}" class="h3">{{ post.title }}</a>
+        </div>
     <small>
         <date>{{ post.date | date_to_string }}</date>
     </small>

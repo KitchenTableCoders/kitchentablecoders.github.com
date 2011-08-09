@@ -139,6 +139,9 @@ body.home .the_article .posts li {
     padding-bottom: 6px;
     position: relative;
 }
+body.home .the_article .posts li div {
+    width: 415px;
+}
 body.home .the_article .posts li small {
     position: absolute;
     right: 0;
