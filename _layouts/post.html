@@ -4,61 +4,81 @@
         {% include header.html %}
         <div id="main" role="main">
             <div class="main_inner">
-                <header class="hd_article">
-                    {% if page.upcoming %}
-                    <h1 class="isupcoming">
-                        An upcoming workshop
-                    </h1>
-                    {% else %}
-                    <h1 class="isupcoming">
-                        A previous workshop
-                    </h1>
-                    {% endif %}
-                    <div id="back">
-                        <a href="/">back</a>
-                    </div>
-                </header>
-                <article class="the_article">
                 <div class="article_inner">
-                    <div class="leftcol">
-                        <h1>{{ page.title }}</h1>
-                        <div class="content">{{ content }}</div>
-                    </div>
-                    <div class="rightcol">
-                        <div class="meta">
-                            <div><a href="{{page.registration_url}}">
-                                <button id="register">Register</button>
-								</a>
-                            </div>
-                            <div id="class-date">
-                                <date title="{{ page.date | date_to_xmlschema }}">
-                                    <span class="day">{{ page.class_date | date: '%d' }}</span>
-                                    <span class="month"><abbr>{{ page.class_date | date: '%b' }}</abbr></span>
-                                    <span class="year">{{ page.class_date | date: '%Y' }}</span>
-                                    <div>
-                                        <span class="start">{{ page.start }}</span>-<span class="start">{{ page.end }}</span>
-                                    </div>
-                                </date>
-                            </div>
-                            <div>
-                                {{ page.location }}
-                            </div>
-                            <div id="fee-list">
-                                {% for fee in page.fee_list %}
-                                <div>{{ fee[0] }} - {{ fee[1] }}</div>
-                                {% endfor %}
-                            </div>
-                            <div id="corporate">
-                                Please <a id="corporate-contact" href="mailto:kitchentablecoders@gmail.com?subject=Corporate account inquiry">contact us</a> for corporate accounts.
-                            </div>
+                    <div id="nav">
+                        <ul>
+                            <li><a href="/about/">About</a></li>
+                            <li class="selected"><a href="/">Courses</a></li>
+                            <li><a href="/goodies/">Goodies</a></li>
+                            <li><a href="/contact/">Contact</a></li>
+                        </ul>
+                        <div id="ktc-est">
+                            ~ Est. 2011 Brooklyn NY 11211 ~
                         </div>
                     </div>
+                    <header class="hd_article" style="margin-left:-40px">
+                        {% if page.upcoming %}
+                        <h1 class="isupcoming">
+                            An upcoming workshop
+                        </h1>
+                        {% else %}
+                        <h1 class="isupcoming">
+                            A previous workshop
+                        </h1>
+                        {% endif %}
+                        <div id="back">
+                            <a href="/">back</a>
+                        </div>
+                    </header>
+                    <article class="the_article" style="margin-left:-40px;">
+                        <div class="article_inner" style="padding-right: 20px;">
+                            <div class="leftcol" style="width: 380px;">
+                                <h1>{{ page.title }}</h1>
+                                <div class="content">{{ content }}</div>
+                            </div>
+                            <div class="rightcol" style="width: 120px;">
+                                <div class="meta" style="font-size: 13px;">
+                                    {% if page.upcoming %}
+                                    <div>
+                                        <a href="{{page.registration_url}}" style="cursor:pointer;">
+                                            <button id="register" style="cursor:pointer">Register</button>
+                                        </a>
+                                    </div>
+                                    <div id="class-date">
+                                        <date title="{{ page.date | date_to_xmlschema }}">
+                                            <span class="day">{{ page.class_date | date: '%d' }}</span>
+                                            <span class="month"><abbr>{{ page.class_date | date: '%b' }}</abbr></span>
+                                            <span class="year">{{ page.class_date | date: '%Y' }}</span>
+                                            <div>
+                                                <span class="start">{{ page.start }}</span>-<span class="start">{{ page.end }}</span>
+                                            </div>
+                                        </date>
+                                    </div>
+                                    <div>
+                                        {{ page.location }}
+                                    </div>
+                                    <div id="fee-list">
+                                        {% for fee in page.fee_list %}
+                                        <div>{{ fee[0] }} - {{ fee[1] }}</div>
+                                        {% endfor %}
+                                    </div>
+                                    <div id="corporate">
+                                        Please <a id="corporate-contact" href="mailto:kitchentablecoders@gmail.com?subject=Corporate account inquiry">contact us</a> for corporate accounts.
+                                    </div>
+                                    {% else %}
+                                    <a href="mailto:kitchentablecoders@gmail.com?subject=I'd like to take {{ page.title }}">
+                                        <button id="register" style="font-size: 12px; padding: 4px 8px; text-transform:none; cursor:pointer">Request this<br/>class again</button>
+                                    </a>
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </div>
+                        <div id="ask">
+                            <a id="ask-anything" href="mailto:kitchentablecoders@gmail.com?subject=Question about the {{ page.title }} class">Ask us anything about this class</a>
+                            <div class="buttons"></div>
+                        </div>
+                    </article>
                 </div>
-                <div id="ask">
-                    <a id="ask-anything" href="mailto:kitchentablecoders@gmail.com?subject=Question about the {{ page.title }} class">Ask us anything about this class</a>
-                    <div class="buttons"></div>
-                </div>
-                </article>
             </div>
         </div><!-- id="main" -->
         {% if false %}

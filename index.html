@@ -28,6 +28,9 @@ description: this is where your meta description for top page.
         <div>
             <a href="{{ post.url }}" class="h3">{{ post.title }}</a>
         </div>
+        <p class="summary">
+            {{ post.summary }}
+        </p>
     </li>
     {% endif %}
     {% endfor %}
