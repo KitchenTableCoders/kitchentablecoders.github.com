@@ -1,0 +1,24 @@
+---
+layout: post
+style: text
+title: Introduction to Node.js (and a taste of functional programming)
+class_date: 2011-4-30
+upcoming: false
+start: 12pm
+end: 6pm
+location: Brooklyn, NY
+registration_url: http://kitchentable2.eventbrite.com/
+fee_list: [["Students", "$75"],
+           ["Freelancers", "$140"],
+           ["Everyone Else", "$300"]]
+---
+
+Node.js is a young yet promising project for writing server-side JavaScript. In this workshop we'll build a basic Node.js server on our laptops and use WebSockets to build a simple realtime multiuser graphical environment. 
+
+As Node.js lends itself particularly well to a functional style of programming, we'll take the opportunity to introduce basic functional programming. Finally, we'll discuss some of the unique advantages of the NodeJS event-based model as well as its current limitations.
+
+This workshop assumes you have basic familiarity with Javascript, as well as a server-side language (PHP, for example).
+
+In order to allow us more time to code, we kindly ask that you have Node.js installed on your laptop (you'll need to be running a local server). On OSX, you can download this install package and just double-click to install: <a href="https://sites.google.com/site/nodejsmacosx/">https://sites.google.com/site/nodejsmacosx/</a> 
+
+Still, If you can, we recommend using the Git methond mentioned on this official installation page:  <a href="https://github.com/joyent/node/wiki/Installation">https://github.com/joyent/node/wiki/Installation</a>
