@@ -1,0 +1,28 @@
+---
+layout: post
+style: text
+title: iOS with OpenFrameworks; Combining OpenGL and Apple's Native UI
+class_date: 2011-7-09
+upcoming: false
+start: 12pm
+end: 5pm
+location: Brooklyn, NY
+registration_url: http://kitchentable7.eventbrite.com/
+fee_list: [["Students", "$80"],
+           ["Freelancers", "$120"],
+           ["Everyone Else", "$250"]]
+---
+
+This week we’ll take a closer look at how we can integrate XCode’s Interface Builder with OpenFrameworks apps, and take advantage of Apple’s native UI elements in our creative apps.
+
+You should come with basic experience in writing OpenFramework Applications, and preferably - at least one successful attempt to run OF on your iPhone/iPad. A bit experience with Objective-C can be helpful but not crucial (we'll cover some of it ourselves).
+
+Please have XCode 3.2 (preferred) or 4.0 installed on your machine, as well as the iOS SDK. If you’d like to test your app on the device, you’ll need to obtain the $100 developer license from Apple. Otherwise you’ll still be able to compile the app to the simulator, but not the device. 
+
+Lastly, please be sure to download the iPhone OpenFrameworks release:
+http://www.openframeworks.cc/versions/preRelease_v0.062/of_preRelease_v0062_iphone_FAT.zip
+(Save As)
+
+More on OpenFrameworks can be found here: http://www.openframeworks.cc
+
+*Prerequisites:* Web browser.

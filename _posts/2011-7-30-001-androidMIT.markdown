@@ -1,0 +1,20 @@
+---
+layout: post
+style: text
+title: Intro to Android with special guest Guy Hoffman (MIT)
+class_date: 2011-7-30
+upcoming: false
+start: 11am
+end: 3pm
+location: Brooklyn, NY
+registration_url: http://kitchentable9.eventbrite.com/
+fee_list: [["Students", "$60"],
+           ["Freelancers", "$120"],
+           ["Everyone Else", "$250"]]
+---
+
+We have a very special guest hanging at the studio this week - Guy Hoffman - MIT Alum, amazing technologist+musician+artist (<a href="http://web.media.mit.edu/~guy/">http://web.media.mit.edu/~guy/</a>), and the creator of the popular android C25K app (<a href="https://sites.google.com/site/c25kapp/">https://sites.google.com/site/c25kapp/</a>). 
+
+He's agreed to do a 'Getting started with Android' workshop this Saturday. Basically how to set up your OSX to develop and deploy android apps, and a few hello-worlds. 
+
+*Prerequisites:* Web browser.
