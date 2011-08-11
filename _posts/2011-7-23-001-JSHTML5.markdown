@@ -7,7 +7,7 @@ upcoming: false
 start: 11:30am
 end: 4:30pm
 location: Brooklyn, NY
-registration_url: http://kitchentable8-eorg.eventbrite.com/
+registration_url: http://kitchentable8.eventbrite.com/
 fee_list: [["Students", "$50"],
            ["Freelancers", "$120"],
            ["Everyone Else", "$250"]]
