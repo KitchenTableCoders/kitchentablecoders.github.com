@@ -1,0 +1,28 @@
+---
+layout: post
+style: text
+title: Intro to iOS with OpenFrameworks
+class_date: 2011-7-02
+upcoming: false
+start: 12pm
+end: 5pm
+location: Brooklyn, NY
+registration_url: http://kitchentable6.eventbrite.com/
+fee_list: [["Students", "$80"],
+           ["Freelancers", "$120"],
+           ["Everyone Else", "$250"]]
+---
+
+We’ll spend Saturday afternoon learning how to use OpenFrameworks (OF) to create iOS apps. We'll start with a general intro to OF, and then dive specifically into exporting apps for iOS devices. We'll then take a look at some of the specific features that OF has for iOS (multitouch, accelorometor, etc.), as we go over OF example apps, as well as write out own app.
+
+Basic knowledge with OpenFrameworks or C++ is recommended (otherwise, proficiency with Processing or Actionscript is also OK).
+
+You'll need an Apple Developer iOS license ($100).  Once you have that, please be sure to have xcode version 3.2.x installed on your mac (note that xcode 4 might have issues with OpenFrameworks). You can find a download of this older version on the Apple developer site, once you have the developers license. 
+
+Lastly, please be sure to download the iPhone OpenFrameworks release:
+http://www.openframeworks.cc/versions/preRelease_v0.062/of_preRelease_v0062_iphone_FAT.zip
+(Save As)
+
+More on OpenFrameworks can be found here: http://www.openframeworks.cc
+
+*Prerequisites:* Basic knowledge with OpenFrameworks or C++ is recommended (otherwise, proficiency with Processing or Actionscript is also OK).
