@@ -1,0 +1,16 @@
+---
+layout: post
+style: text
+title: Introduction to Programming: Javascript and HTML 5 Canvas 
+class_date: 2011-4-23
+upcoming: false
+start: 10am
+end: 2pm
+location: Brooklyn, NY
+registration_url: http://kitchentable1.eventbrite.com/
+fee_list: [["Students", "$50"],
+           ["Freelancers", "$120"],
+           ["Everyone Else", "$250"]]
+---
+
+What is a variable? What is a for loop? What are functions? What are arrays? This introduction to programming will guide you through these concepts using one of the most important programming languages today - JavaScript. By writing simple graphics programs with the HTML5 Canvas tag, we'll learn about some of the most essential aspects of the craft of programming while having fun at the same time. No experience is required - just bring your laptop and make sure you're running a modern browser (Safari 5, Firefox 3+, Google Chrome, Internet Explorer 9). We'll provide you with a simple HTML file for our experiments.
