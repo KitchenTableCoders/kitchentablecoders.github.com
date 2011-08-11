@@ -1,0 +1,21 @@
+---
+layout: post
+style: text
+title: Basics of Creative Coding, using Processing
+class_date: 2011-4-16
+upcoming: false
+start: 1pm
+end: 6pm
+location: Brooklyn, NY
+registration_url: http://kitchentable0.eventbrite.com/
+
+---
+
+This Saturday (April 16th) at 1-6PM David Nolen and Amit Pitaru will be doing a free workshop at our Brooklyn Studio.
+We'll start with 'what's a variable and why does it exist', and work our way up to our first drawing program.
+
+It'll be just 5 of us, spending the day around the kitchen tabel at our Brooklyn Studio.
+This session is a test run for a series of paid workshops that David Nolan and I are planning in the upcoming weeks. Each day-long session Will cover creative coding in Processing, OpenFrameworks, JavaScript, iOS, as well as game-design, audio-visual, and functional programmig techniques (Lisp/Haskel/Closure). We're also open to other topics if there's damand. The common thread is that we'll be placig special emhpasis on enjoying the craft and staying creative through-out the learning process.
+Hope to see you saturday. 
+
+Amit
