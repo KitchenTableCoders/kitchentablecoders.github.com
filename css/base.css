@@ -182,7 +182,9 @@ em { font-weight: bold; }
 }
 
 #cols div p {
-    font-size: 22px;
+    font-size: 18px;
+    line-height: 1.2em;
+    padding-left: 20px;
 }
 
 #cols #left {
