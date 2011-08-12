@@ -112,9 +112,9 @@ em { font-weight: bold; }
 
 /* Logo img */
 #logo-img-container {
-    margin-top: 25px;
+    margin-top: 0px; 
     text-align: center;
-    height: 90px;
+    height: 100px;
 }
 
 /* Site Wide Navigation */

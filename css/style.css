@@ -104,13 +104,14 @@ a:hover {
     color: #DCDEE0;
 }
 .tagline {
-    margin-left: 5px;
+    padding-top:20px;
+    margin-left: 0px;
     text-align: center;
     font-family: 'Hiragino Minch Gothic ProN','Quattrocento', 'Georgia', serif; 
     width: 100%;
-    font-size: 16px;
-    font-style: lighter;
-    font-weight: 100;
+    font-size: 18px;
+    font-weight: 120;
+    color:#555;
 }
 
 /* MAIN
@@ -119,7 +120,7 @@ a:hover {
 .the_article {
 }
 .the_article .article_inner {
-    padding-top: 24px;
+    padding-top: 0px;
     padding-bottom: 24px;
 }
 .the_article ul { list-style: square; }

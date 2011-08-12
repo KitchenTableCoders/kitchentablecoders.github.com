@@ -9,7 +9,7 @@
 	60px  144px  228px  312px  396px  480px  564px  648px	*/
 
 body {
-	padding: 42px 0 0;
+	padding: 20px 0 0;
 	-webkit-tap-highlight-color: rgb(255,255,0);
 }
 img { max-width: 100%; }
