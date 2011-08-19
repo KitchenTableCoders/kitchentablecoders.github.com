@@ -3,7 +3,7 @@ layout: post
 style: text
 title: CoffeeScript and You
 class_date: 2011-8-20
-upcoming: true
+upcoming: false
 start: 11am
 end: 3pm
 location: Brooklyn, NY
