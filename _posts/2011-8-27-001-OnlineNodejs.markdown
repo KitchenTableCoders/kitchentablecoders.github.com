@@ -8,9 +8,9 @@ start: 12pm
 end: 6pm
 location: Brooklyn, NY
 registration_url: http://kitchentable12.eventbrite.com/
-fee_list: [["Students", "$75"],
-           ["Freelancers", "$140"],
-           ["Everyone Else", "$300"]]
+fee_list: [["Students", "$60"],
+           ["Freelancers", "$120"],
+           ["Everyone Else", "$250"]]
 ---
 
 Node.js is a young yet promising project for writing server-side JavaScript. In this workshop we’ll build a basic Node.js server on our laptops and use WebSockets to build a simple realtime multiuser graphical environment.
