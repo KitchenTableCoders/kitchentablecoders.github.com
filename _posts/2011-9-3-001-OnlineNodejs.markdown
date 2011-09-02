@@ -2,7 +2,7 @@
 layout: post
 style: text
 title: Online Multiuser Environments With Node.js
-class_date: 2011-8-27
+class_date: 2011-9-03
 upcoming: true
 start: 12pm
 end: 6pm
