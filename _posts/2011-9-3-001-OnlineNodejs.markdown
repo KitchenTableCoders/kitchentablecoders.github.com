@@ -4,8 +4,8 @@ style: text
 title: Online Multiuser Environments With Node.js
 class_date: 2011-9-03
 upcoming: true
-start: 12pm
-end: 6pm
+start: 11am
+end: 3am
 location: Brooklyn, NY
 registration_url: http://kitchentable13.eventbrite.com/
 fee_list: [["Students", "$60"],
