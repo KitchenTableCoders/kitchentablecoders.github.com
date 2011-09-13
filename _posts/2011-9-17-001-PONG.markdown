@@ -1,0 +1,22 @@
+---
+layout: post
+style: text
+title: PONG (JavaScript, OpenFrameworks)
+class_date: 2011-9-17
+upcoming: true
+start: 2pm
+end: 6pm (we might hang longer if needed)
+location: Brooklyn, NY
+registration_url: http://kitchentable14.eventbrite.com/
+fee_list: [["Students", "$60"],
+           ["Freelancers", "$120"],
+           ["Everyone Else", "$250"]]
+---
+
+This saturday we’ll be doing a very special workshop on …  PONG! 
+
+We’ll spend the afteroon building a pong game from scratch in Javascript (via ProcessingJS), and discussing the very basic of coding and game design while at it. 
+
+This is a great opportunity to brush up on some basic coding, interactive concepts, and learn a bit of game-tuning while at it. 
+ 
+Towards the end of the class, we’ll take a look at how a multitouch version of the code can be implemented on mobile devices using OpenFrameworks.

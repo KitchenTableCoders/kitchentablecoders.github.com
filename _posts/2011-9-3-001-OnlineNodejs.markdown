@@ -3,7 +3,7 @@ layout: post
 style: text
 title: Online Multiuser Environments With Node.js
 class_date: 2011-9-03
-upcoming: true
+upcoming: false
 start: 11am
 end: 3am
 location: Brooklyn, NY
