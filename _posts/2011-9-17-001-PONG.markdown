@@ -3,7 +3,7 @@ layout: post
 style: text
 title: PONG (JavaScript, OpenFrameworks)
 class_date: 2011-9-17
-upcoming: true
+upcoming: false
 start: 2pm
 end: 6pm (we might hang longer if needed)
 location: Brooklyn, NY
