@@ -15,3 +15,5 @@ fee_list: [["Students", "$40"],
 Bored with your existing instruments?  Can't figure out how to get just the right sound you're looking for?  Ever wanted to build your own virtual instruments from scratch?
 
 PureData is a free, open-source tool for making noise that encourages experimentation and rapid prototyping, and it's fun, too!  I'll walk you through the basics of both PureData and sound itself to enable you to explore a whole new field of sonic possibilities.
+
+In order to allow us more time to code, we kindly ask that you have PureData installed on your laptop. You can download the software from <a href="http://puredata.info/community/projects/software">http://puredata.info/community/projects/software</a> 
