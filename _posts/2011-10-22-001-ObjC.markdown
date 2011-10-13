@@ -1,0 +1,18 @@
+---
+layout: post
+style: text
+title: Intro to Objective-C
+class_date: 2011-10-22
+upcoming: true
+start: 12pm
+end: 5pm
+location: Brooklyn, NY
+registration_url: http://kitchentable4.eventbrite.com/
+fee_list: [["Students", "$60"],
+           ["Freelancers", "$120"],
+           ["Everyone Else", "$250"]]
+---
+
+In order to understand iOS development it's critical to have a good foundation. A good foundation means examining the design philosophy behind the programming language at the heart of Apple's technologies - Objective-C. In this workshop we'll study two of the most influential programming languages of all time C and Smalltalk - the unlikely pairing that produced Objective-C. We'll then talk about how to design programs in Objective-C. Expect to learn a good deal about the essence of C programming as well the beauty of messaging based Object Oriented Programming.
+
+*Prerequisites:* Familiarity with at least one programming language, XCode.
