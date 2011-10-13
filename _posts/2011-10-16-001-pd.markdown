@@ -1,0 +1,19 @@
+---
+layout: post
+style: text
+title: Designing Sound with PureData w/ Ted Hayes
+class_date: 2011-10-16
+upcoming: true
+start: 12pm
+end: 4pm
+location: Brooklyn, NY
+registration_url: http://kitchentable15.eventbrite.com/
+fee_list: [["Students", "$40"],
+           ["Freelancers", "$90"],
+           ["Everyone Else", "$250"]]
+---
+Bored with your existing instruments?  Can't figure out how to get just the right sound you're looking for?  Ever wanted to build your own virtual instruments from scratch, or make a physical interface for your music?
+
+PureData is a free, open-source tool for making noise that encourages experimentation and rapid prototyping, and it's fun, too!  I'll walk you through the basics of both PureData and sound itself to enable you to explore a whole new field of sonic possibilities.  No programming knowledge required!
+
+In order to allow us more time to code, we kindly ask that you have PureData installed on your laptop. You can download the software from <a href="http://puredata.info/community/projects/software">http://puredata.info/community/projects/software</a> 
