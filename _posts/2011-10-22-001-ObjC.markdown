@@ -4,11 +4,11 @@ style: text
 title: Intro to Objective-C
 class_date: 2011-10-22
 upcoming: true
-start: 12pm
-end: 5pm
+start: 11am
+end: 3pm
 location: Brooklyn, NY
 registration_url: http://kitchentable16.eventbrite.com/
-fee_list: [["Students", "$60"],
+fee_list: [["Students", "$80"],
            ["Freelancers", "$120"],
            ["Everyone Else", "$250"]]
 ---
