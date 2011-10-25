@@ -3,7 +3,7 @@ layout: post
 style: text
 title: Designing Sound with PureData w/ Ted Hayes
 class_date: 2011-10-16
-upcoming: true
+upcoming: false
 start: 12pm
 end: 4pm
 location: Brooklyn, NY
