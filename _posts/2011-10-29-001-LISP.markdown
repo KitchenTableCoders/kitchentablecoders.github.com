@@ -3,7 +3,7 @@ layout: post
 style: text
 title: An Introduction to LISP
 class_date: 2011-10-29
-upcoming: true
+upcoming: false
 start: 12pm
 end: 4pm
 location: Brooklyn, NY

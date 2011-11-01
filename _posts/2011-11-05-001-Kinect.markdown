@@ -1,0 +1,31 @@
+---
+layout: post
+style: text
+title: Introduction to Kinect
+class_date: 2011-11-05
+upcoming: true
+start: 12pm
+end: 4pm
+location: Brooklyn, NY
+registration_url: http://kitchentable18.eventbrite.com/
+fee_list: [["Students", "$80"],
+           ["Freelancers", "$120"],
+           ["Everyone Else", "$250"]]
+---
+Get up and running building creative application in Processing that use the Microsoft Kinect depth camera to track users.
+ 
+Goals:
+- Learn the history of the Kinect and the principles behind how it works as a depth camera
+- Survey the landscape of tools, drivers, and frameworks that are available for working with the Kinect and doing skeleton tracking based on its data
+- Install the software necessary to work with the skeleton data in Processing
+- Understand the calibration process, how it works, and why it's necessary
+- Learn how to access user joint positions
+- Understand the difference between real world and screen coordinate systems and how to translate between the two
+- Learn the basics of vector math required to measure joint position and relative distance
+- Explore tools for using joint position and relative distance in user interfaces and creative tools
+- Have a conversation about the possibilities, limitations, and meaning of this kind of interaction
+ 
+Pre-requisites:
+- Beginner level graphical programming knowledge
+- Basic familiarity with Processing or other similar creative coding frameworks (class will be taught in Processing)
+- Bring a Kinect (a few will be on hand to borrow, but you'll get more out of it if you bring your own)
