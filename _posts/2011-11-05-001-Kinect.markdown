@@ -3,7 +3,7 @@ layout: post
 style: text
 title: An Intro to the Kinect for Skeleton Tracking
 class_date: 2011-11-05
-upcoming: true
+upcoming: false
 start: 12pm
 end: 4pm
 location: Brooklyn, NY
