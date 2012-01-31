@@ -4,7 +4,7 @@ style: text
 title: Creative Coding for Designers, using Processing w/ Amit Pitaru
 class_date: 2012-01-29
 upcoming: false
-start: 11am
+start: 10am
 end: 1:30pm
 location: Brooklyn, NY
 registration_url: http://kitchentable22.eventbrite.com/
