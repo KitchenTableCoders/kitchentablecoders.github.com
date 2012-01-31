@@ -1,0 +1,17 @@
+---
+layout: post
+style: text
+title: Kitchen Table Go
+class_date: 2012-02-02
+upcoming: true
+start: 10:30am
+end: 1pm
+location: Brooklyn, NY
+registration_url: http://kitchentable22.eventbrite.com/
+fee_list: [["Students", "$00"],
+           ["Freelancers", "$000"],
+           ["Everyone Else", "$000"]]
+summary: 
+---
+
+A gentle introduction to the very fundamentals of coding, tailored espeially for designers. We'll be using the http://processing.org platform, so please download the latest version from the site (http://processing.org/download)
