@@ -1,7 +1,7 @@
 ---
 layout: post
 style: text
-title: Kitchen Table Go
+title: Creative Coding for Designers, using Processing
 class_date: 2012-02-02
 upcoming: true
 start: 10:30am
