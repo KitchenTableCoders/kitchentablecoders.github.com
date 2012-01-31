@@ -1,32 +1,21 @@
 ---
 layout: post
 style: text
-title: Node.js + Pong!
-class_date: 2011-12-11
-upcoming: true
+title: Creative Coding for Designers, using Processing w/ Amit Pitaru
+class_date: 2012-01-29
+upcoming: false
 start: 11am
-end: 3pm
+end: 1:30pm
 location: Brooklyn, NY
-registration_url: http://kitchentable21-eorg.eventbrite.com/
+registration_url: http://kitchentable22.eventbrite.com/
 fee_list: [["Students", "$60"],
            ["Freelancers", "$120"],
            ["Everyone Else", "$250"]]
 summary: 
 ---
-
-Node.js gives creative developers the ability to quickly prototype and
-create real-time multi-user experiences.
-
-In this workshop we’ll build a basic Node.js server on our laptops and
-use WebSockets to build a simple realtime multiuser graphical
-environment in a web browser. However we won't stop there, we'll show
-you how to hook up sensors and electronics to create physical controls
-for multiplayer Pong!
-
-In order to allow us more time to code, we kindly ask that you arrive
-with Node.js installed on your laptop (you’ll need to be running a
-local server). You can find installers for your operating system here,
-<a href="http://nodejs.org/#download">http://nodejs.org/#download</a>
-
-*Prerequisites:* This workshop assumes you have basic familiarity with at least one
-programming language.
+A gentle introduction to the very fundamentals of coding, tailored espeially for designers. We'll be using the http://processing.org platform, so please download the latest version from the site (http://processing.org/download)
+ 
+About Kitchen Table Coders: 
+Hi, we're David Nolen & Amit Pitaru & Ted Hayes. We both design software for a living and also share a studio in Brooklyn. We're ever curious about new and old languages, as well as the people who shaped them. Sometimes we teach graduate courses at NYU ITP, so we figured why not do informal workshops at our studio with like-minded folk.
+ 
+Every week we host a workshop on a topic we're passionate about. We keep it down to 6 people because that's how many fit around our kitchen table. There's no projector. We just hang out for the day, and enjoy a collaborative learning experience.
