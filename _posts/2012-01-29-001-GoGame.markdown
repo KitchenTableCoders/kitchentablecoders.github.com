@@ -7,14 +7,12 @@ upcoming: true
 start: 7pm
 end: 10pm
 location: Brooklyn, NY
-fee_list: [["Students", "$"],
+registration_url: http://kitchentable23.eventbrite.com/
+fee_list: [["Students", "$0"],
            ["Freelancers", "$0"],
            ["Everyone Else", "$0"]]
 summary: 
 ---
 
-Come join us in our Brooklyn studio for a relaxed evening of
-learning how to play Go - the ancient board game. Between games
-we often chat about whatever suits our fancy from programming
-languages to logic, art, music and more. No experience in any of the above required :)
+Come join us in our Brooklyn studio for a relaxed evening of learning how to play Go - the ancient board game. Between games we often chat about whatever suits our fancy from programming languages to logic, art, music and more. No experience in any of the above required :)
 
