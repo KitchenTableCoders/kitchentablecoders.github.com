@@ -11,7 +11,7 @@ registration_url: http://kitchentable25.eventbrite.com/
 fee_list: [["Students", "$60"],
            ["Freelancers", "$120"],
            ["Everyone Else", "$250"]]
-summary: 
+summary: Node.js gives creative developers the ability to quickly prototype and create real-time multi-user experiences.
 ---
 
 Node.js gives creative developers the ability to quickly prototype and
