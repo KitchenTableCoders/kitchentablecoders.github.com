@@ -9,7 +9,7 @@ end: 3pm
 location: Brooklyn, NY
 registration_url: http://kitchentable26.eventbrite.com/
 fee_list: [["Students", "free"],
-           ["Freelancers", "free""],
+           ["Freelancers", "free"],
            ["Everyone Else", "free"]]
 ---
 The construction of computer programs represents an entirely new
