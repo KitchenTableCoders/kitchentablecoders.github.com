@@ -1,23 +1,32 @@
 ---
 layout: post
 style: text
-title: An Introduction to LISP
+title: The Writing Process
 class_date: 2012-02-25
 upcoming: true
 start: 12pm
-end: 4pm
+end: 3pm
 location: Brooklyn, NY
 registration_url: http://kitchentable26.eventbrite.com/
-fee_list: [["Students", "$80"],
-           ["Freelancers", "$120"],
-           ["Everyone Else", "$250"]]
+fee_list: [["Students", "free"],
+           ["Freelancers", "free""],
+           ["Everyone Else", "free"]]
 ---
-"Lisp isn't a language, it's a building material." – Alan Kay
+The construction of computer programs represents an entirely new
+form of writing. While we must sacrifice much of the linguistic
+ambiguity found in traditional writing, we still somehow have to
+create dynamic and flexible processes. In this experimental workshop
+we will consider our craft from a variety of novel angles - one
+radical approach we will take is using Clojure as the shared
+language of understanding. By using an unfamiliar languge we can
+drive at the essence of our art - the design of processes. But don't
+come thinking you'll learn about the ins and outs of Clojure - in
+the tradition of The Little Schemer we'll be using the most minimal
+subset of the language necessary in order to focus on the
+process of writing processes.
 
-There is a programming languages renaissance of sorts happening. This current flurry of activity has inspired some folks to revisit old ideas. One such idea is Lisp. Concieved by John McCarthy in 1957 to explore artificial intelligence, Lisp has survived in various incarnations while other languages have long since disappeared.
-
-One of the main reasons Lisp has survived 50+ years is that the notion of evolution is fundamental to the design of language. Lisp is homoiconic—code is data and data is code, allowing Lisp to be used for metaprogramming. Thus Lisp can "grow" while other language die off as new paradigms and approaches displace old ones.
-
-In this workshop we'll take a whirlwind tour of the history - Lisp's rise in the AI community and its long dormancy after AI winter. We'll get our hands dirty with a popular modern dialect Clojure, but expect a taste of Common Lisp and Racket (a Scheme dialect) as well.
-
-Expect to be rigorously challenged - this class is intended for the advanced programmer or the overly enthusiastic intermediate programmer.
+This workshop is free and seating is limited. Bring your laptop and
+bring an open mind. The workshop will be extremely discussion
+oriented and you are expected to lead the conversation just as much
+as we do. The class is designed for intermediate to advanced
+programmers.
