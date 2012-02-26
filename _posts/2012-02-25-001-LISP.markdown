@@ -3,7 +3,7 @@ layout: post
 style: text
 title: The Writing Process
 class_date: 2012-02-25
-upcoming: true
+upcoming: false
 start: 12pm
 end: 3pm
 location: Brooklyn, NY
