@@ -1,0 +1,17 @@
+---
+layout: post
+style: text
+title: Wireless Projects with XBee and Wifi
+class_date: 2012-03-03
+upcoming: true
+start: 11am
+end: 3pm
+location: Brooklyn, NY
+registration_url: http://kitchentable27.eventbrite.com/
+fee_list: [["Students", "$80"],
+           ["Freelancers", "$120"],
+           ["Everyone Else", "$250"]]
+---
+How do we get our projects to talk to the Internet and to each other?  This workshop will show you how to use XBee and WiFi wireless modules to network your electronics and let them interact with the world.  Sense data and send it to a website, use a networked joystick to play pong over the internet, or create an internet-enabled light switch, or anything else you can dream of!
+ 
+We'll explore what mesh networks are and can do for you, and how to send and receive internet data with an Arduino and similar devices.  No previous experience required, but basic Arduino knowledge recommended.  Parts not required, but I will have some to sell, and you are welcome to bring your own boards and modules.  We'll be using the XBee ZB, USB Explorer and Roving Networks WiFly modules as well as an Arduino.
