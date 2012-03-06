@@ -1,0 +1,15 @@
+---
+layout: post
+style: text
+title: P-Comp: The Missing Parts
+class_date: 2012-03-17
+upcoming: true
+start: 1pm
+end: 5pm
+location: Brooklyn, NY
+registration_url: http://kitchentable29.eventbrite.com/
+fee_list: [["Students", "$80"],
+           ["Freelancers", "$120"],
+           ["Everyone Else", "$250"]]
+---
+You've built projects with Arduino, wired up LEDs, made servos move.  But what really lies behind it all how do all those electrons get pushed around and make your ideas come alive?  We'll discuss what electricity is and the basics of its application from resistors & capacitors to digital signaling.  It's the missing parts of Physical Computing: the tools to understand why your LEDs need resistors, how to troubleshoot your electronic projects, and how to build analog circuits that don't need an Arduino at all!
