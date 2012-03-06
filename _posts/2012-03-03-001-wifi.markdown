@@ -3,7 +3,7 @@ layout: post
 style: text
 title: Wireless Projects with XBee and Wifi
 class_date: 2012-03-03
-upcoming: true
+upcoming: false
 start: 11am
 end: 3pm
 location: Brooklyn, NY
