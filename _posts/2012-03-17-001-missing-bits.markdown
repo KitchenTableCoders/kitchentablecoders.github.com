@@ -1,7 +1,7 @@
 ---
 layout: post
 style: text
-title: P-Comp: The Missing Parts
+title: P-Comp The Missing Parts
 class_date: 2012-03-17
 upcoming: true
 start: 1pm
