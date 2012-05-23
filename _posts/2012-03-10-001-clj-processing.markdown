@@ -3,7 +3,7 @@ layout: post
 style: text
 title: Live Coding with Processing and Clojure
 class_date: 2012-03-10
-upcoming: true
+upcoming: false
 start: 1pm
 end: 4pm
 location: Brooklyn, NY

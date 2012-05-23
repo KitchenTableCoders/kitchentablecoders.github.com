@@ -3,7 +3,7 @@ layout: post
 style: text
 title: P-Comp The Missing Parts
 class_date: 2012-03-17
-upcoming: true
+upcoming: false
 start: 1pm
 end: 5pm
 location: Brooklyn, NY
