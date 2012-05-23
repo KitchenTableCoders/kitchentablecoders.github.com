@@ -1,0 +1,17 @@
+---
+layout: post
+style: text
+title: Kitchen Table GO
+class_date: 2012-04-26
+upcoming: false
+start: 1pm
+end: 4pm
+location: Brooklyn, NY
+registration_url: http://kitchentable32.eventbrite.com/
+fee_list: [["Students", "Free"],
+           ["Freelancers", "Free"],
+           ["Everyone Else", "Free"]]
+---
+Kitchen Table Go
+
+Come join us in our Brooklyn studio for a relaxed evening of learning how to play Go - the ancient board game. Between games we often chat about whatever suits our fancy from programming languages to logic, art, music and more. No experience in any of the above required :)

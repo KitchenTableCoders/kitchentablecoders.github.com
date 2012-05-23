@@ -1,7 +1,7 @@
 ---
 layout: post
 style: text
-title: Art Without Object
+title: Arduino and NodeJS
 class_date: 2012-05-05
 upcoming: false
 start: 1pm
