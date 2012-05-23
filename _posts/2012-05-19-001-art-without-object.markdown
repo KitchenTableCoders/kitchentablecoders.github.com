@@ -3,7 +3,7 @@ layout: post
 style: text
 title: Art Without Object
 class_date: 2012-05-19
-upcoming: true
+upcoming: false
 start: 1pm
 end: 4pm
 location: Brooklyn, NY
@@ -12,7 +12,6 @@ fee_list: [["Students", "$60"],
            ["Freelancers", "$120"],
            ["Everyone Else", "$250"]]
 ---
-Art Without Object
 With Tims Gardner 
 
 This class is about making expressive user interfaces and graphics without any object-oriented malarky getting in the way. Dynamic functional programming abandons the usual rigid, pre-compiled, sprawling class hierarchies of statically typed, syntactically baroque imperative code. In doing so, it approaches the expressivity of mathematics or poetry. 
