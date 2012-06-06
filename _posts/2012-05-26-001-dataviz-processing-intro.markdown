@@ -3,7 +3,7 @@ layout: post
 style: text
 title: Intro to coding data visualization tools with Processing
 class_date: 2012-05-26
-upcoming: true
+upcoming: false
 start: 12pm
 end: 4pm
 location: Brooklyn, NY
