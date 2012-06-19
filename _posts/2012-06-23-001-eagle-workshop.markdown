@@ -2,7 +2,7 @@
 layout: post
 style: text
 title: Designing Printed Circuit Boards with EAGLE
-class_date: 2012-23-16
+class_date: 2012-06-23
 upcoming: true
 start: 12pm
 end: 4pm
