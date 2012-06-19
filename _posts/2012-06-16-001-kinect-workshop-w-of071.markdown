@@ -3,7 +3,7 @@ layout: post
 style: text
 title: Kinect Workshop (with OpenFrameworks 0071)
 class_date: 2012-06-16
-upcoming: true
+upcoming: false
 start: 12pm
 end: 4pm
 location: Brooklyn, NY
