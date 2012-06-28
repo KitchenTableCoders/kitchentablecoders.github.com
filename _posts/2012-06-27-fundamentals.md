@@ -21,7 +21,7 @@ This workshop will cover the foundational concepts that give rise to all web app
 
 We'll walk through a simple example application in Python and deploy it, live, to Heroku (a fast and easy way to get your app online).  Programming and terminal experience is recommended, but even without it, you will become familiarized with the foundations of web application development and leave the class with a working site that you can grow and modify.
  
-/*A pun that you'll get if you attend this class!
+\*A pun that you'll get if you attend this class!
  
 # About Kitchen Table Coders: 
  
