@@ -20,8 +20,8 @@ You've dabbled with web pages and static web sites.  You've uploaded files with 
 This workshop will cover the foundational concepts that give rise to all web applications, regardless of language and framework, from the ground up: what is a server, really—and for that matter, what is a web application?  How do databases integrate into my app, and how do I deploy it to the world?  How do networks of computers communicate, process and display the information that comprise the Facebooks, Gmails and Pinterests of the world?  No matter how you program them, they all "REST"* on the same core ideas.
 
 We'll walk through a simple example application in Python and deploy it, live, to Heroku (a fast and easy way to get your app online).  Programming and terminal experience is recommended, but even without it, you will become familiarized with the foundations of web application development and leave the class with a working site that you can grow and modify.
-
-*A pun that you'll get if you attend this class!
+ 
+* A pun that you'll get if you attend this class!
  
 # About Kitchen Table Coders: 
  
