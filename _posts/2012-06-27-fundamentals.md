@@ -13,7 +13,6 @@ fee_list: [["Students", "$60"],
            ["Everyone Else", "$250"]]
 published: true
 ---
-# Fundamentals of Web Applications
 With Tedb0t
  
 You've dabbled with web pages and static web sites.  You've uploaded files with FTP and maybe configured Apache, perhaps written a PHP script or two.  But, you wonder, how do modern web applications work?  What concepts underlie the plethora of web app frameworks like Rails and Django and Tornado, and how do we navigate their many options?
