@@ -3,7 +3,7 @@ layout: post
 style: text
 title: Fundamentals of Web Applications
 class_date: 2012-07-07
-upcoming: true
+upcoming: false
 start: 1pm
 end: 4pm
 location: Brooklyn, NY
@@ -31,3 +31,4 @@ Check out our previous workshops or more info!
  
  
 For updates and news, follow us on twitter @ktcoders
+
