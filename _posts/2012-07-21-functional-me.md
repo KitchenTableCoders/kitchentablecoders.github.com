@@ -16,7 +16,7 @@ published: true
 With the ever growing popularity of JavaScript the term Functional
 Programming is rapidly becoming a household phrase. But what is
 Functional Programming exactly? Isn't it just some mathematical
-silliness? Doesn't it abandon the clear and proven principles of
+silliness? Doesn't it abandon the proven principles of
 Object Orientation?  Often our conceptions becomes clearer when we are
 given the opportunity to compare and contrast via direct
 manipulation. Thus we'll explore the ideas behind Functional
