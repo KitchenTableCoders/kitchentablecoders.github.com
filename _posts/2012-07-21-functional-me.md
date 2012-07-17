@@ -11,7 +11,7 @@ registration_url: http://kitchentable37.eventbrite.com/
 fee_list: [["Students", "$60"],
            ["Freelancers", "$120"],
            ["Everyone Else", "$250"]]
-published: false
+published: true
 ---
 With the ever growing popularity of JavaScript the term Functional
 Programming is rapidly becoming a household phrase. But what is
