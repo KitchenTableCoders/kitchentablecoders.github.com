@@ -19,7 +19,7 @@ Functional Programming exactly? Isn't it just some mathematical
 silliness? Doesn't it abandon the clear and proven principles of
 Object Orientation?  Often our conceptions becomes clearer when we are
 given the opportunity to compare and contrast via direct
-manipulation. Thus we'll explore the ideas beyond Functional
+manipulation. Thus we'll explore the ideas behind Functional
 Programming using Clojure and Light Table.
 
 We'll end with a simple web application you can run on Heroku.
