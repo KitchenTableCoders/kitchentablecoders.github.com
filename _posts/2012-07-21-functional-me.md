@@ -2,7 +2,7 @@
 layout: post
 style: text
 title: Functional Me
-class_date: 2012-07-28
+class_date: 2012-07-21
 upcoming: true
 start: 12pm
 end: 4pm
