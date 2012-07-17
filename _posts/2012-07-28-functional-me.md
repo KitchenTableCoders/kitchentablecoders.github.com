@@ -24,6 +24,8 @@ Programming using Clojure and Light Table.
 
 We'll end with a simple web application you can run on Heroku.
 
+Prequisites: Intermediate programmer comfortable in at least one mainstream programming language.
+
  
 # About Kitchen Table Coders: 
  
