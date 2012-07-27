@@ -4,8 +4,8 @@ style: text
 title: Intro to Creative Programming with Javascript and HTML 5 Canvas
 class_date: 2011-7-23
 upcoming: false
-start: 11:30am
-end: 4:30pm
+start: 11 30am
+end: 4 30pm
 location: Brooklyn, NY
 registration_url: http://kitchentable8.eventbrite.com/
 fee_list: [["Students", "$50"],
