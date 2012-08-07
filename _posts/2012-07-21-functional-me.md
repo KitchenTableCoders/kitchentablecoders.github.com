@@ -3,7 +3,7 @@ layout: post
 style: text
 title: Functional Me
 class_date: 2012-07-21
-upcoming: true
+upcoming: false
 start: 12pm
 end: 4pm
 location: Brooklyn, NY
