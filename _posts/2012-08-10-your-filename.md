@@ -10,7 +10,7 @@ location: Brooklyn, NY
 registration_url: http://www.eventbrite.com/event/4067255270
 fee_list: [["Panel", "$25"],
            ["Workshop", "$25"]]
-published: false
+published: true
 ---
 
 We're doing this thing
