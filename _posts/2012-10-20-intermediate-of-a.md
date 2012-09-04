@@ -1,7 +1,7 @@
 ---
 layout: post
 style: text
-title: Intermediate Creative Coding with openFrameworks
+title: Intermediate Creative Coding with openFrameworks (Section A)
 class_date: 2012-10-20 through 2012-12-01
 upcoming: true
 start: 12pm
@@ -39,7 +39,7 @@ __Week 1: Oct 20 - Introduction__
 * arrays
 * the &lsquo;new&rsquo; operator
 
-__Week 2: Oct 27&nbsp;- openGL__
+__Week 2: Oct 27- openGL__
 
 * matrix transformations
 * ofMesh (ofVBO, ofVboMesh)
@@ -47,7 +47,7 @@ __Week 2: Oct 27&nbsp;- openGL__
 * ofFbo
 * ofShader
 
-__Week 3: November 3&nbsp;&nbsp;- Networking__
+__Week 3: November 3 - Networking__
 
 * ofxOSC (for communicating between machines)
 * ofURLFileLoader
