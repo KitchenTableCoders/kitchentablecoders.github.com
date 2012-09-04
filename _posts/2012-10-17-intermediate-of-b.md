@@ -2,7 +2,7 @@
 layout: post
 style: text
 title: Intermediate Creative Coding with openFrameworks (Section B)
-class_date: 2012-17-20 through 2012-11-29
+class_date: 2012-10-17 through 2012-11-29
 upcoming: true
 start: 12pm
 end: 4pm
