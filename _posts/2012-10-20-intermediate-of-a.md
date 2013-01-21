@@ -3,7 +3,7 @@ layout: post
 style: text
 title: Intermediate Creative Coding with openFrameworks (Section A)
 class_date: 2012-10-20 through 2012-12-01
-upcoming: true
+upcoming: false
 start: 12pm
 end: 4pm
 location: Brooklyn, NY
@@ -13,6 +13,7 @@ fee_list: [["Students", "$300"],
            ["Everyone Else", "$1300"]]
 published: true
 ---
+
 **This is a 6 week workshop. Saturdays, noon-4pm, October 20-December 1st (Except November 10)**
 
 Have you been working with Processing or ActionScript, but need more performance to realize your interactive project? Are you a JavaScript hacker who'd like to add c++ to her arsenal of skills? If so, it's probably time to make the jump to openFrameworks, an open source c++ toolkit for creative coding. OpenFrameworks is not only a very powerful tool for creative coding, but a great way to enter the sometimes daunting world of c++. For just a few examples of the type of things that are possible with openFrameworks, check out the oF gallery here.
