@@ -8,9 +8,9 @@ start: noon
 end: 5pm
 location: Brooklyn, NY
 registration_url: http://www.eventbrite.com/event/6678476503
-fee_list: [["Students", "$60"],
-           ["Freelancers", "$120"],
-           ["Corporate", "$250"]]
+fee_list: [["Students", "$100"],
+           ["Freelancers", "$200"],
+           ["Corporate", "$600"]]
 published: true
 instructor: Jeff Crouse
 ---
