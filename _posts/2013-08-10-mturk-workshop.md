@@ -15,7 +15,7 @@ published: true
 instructor: Jeff Crouse
 ---
 
-####This workshop takes place on Aughst 10th and 11th, noon-5pm
+####This workshop takes place on August 10th and 11th, noon-5pm
 
 In 2005, Amazon launched <a href="https://www.mturk.com/mturk/">Mechanical Turk</a>, a crowdsourcing ("Artificial Artificial Intelligence") platform that made it possible to integrate human intelligence directly into software. The service was mostly aimed at businesses in need of quick, cheap, almost-mindless labor. But artists quickly began to explore both the creative potential and the significant ethical and cultural concerns surrounding the practice of using the Internet as a labor marketplace, leading to some great projects (see below). Although the buzz about crowdosourcing has died down somewhat, the technique is still incredibly prevelant on the web, with new services frequently popping up that attempt to harness the creative and labor potential of an Internet of "workers".
 
