@@ -4,7 +4,7 @@ layout: post
 style: text
 title: Programming User Interfaces for the Web
 class_date: 2013-02-02
-upcoming: true
+upcoming: false
 start: 11am
 end: 3pm
 location: Brooklyn, NY

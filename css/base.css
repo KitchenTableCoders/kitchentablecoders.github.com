@@ -273,6 +273,11 @@ em { font-weight: bold; }
 #class-date {
     margin-top: 20px;
 }
+#class-instructor {
+    margin-bottom: 10px;
+    margin-top: -10px;
+    color: #FF8352;
+}
 
 #ask {
     margin-left: 70px;
