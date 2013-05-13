@@ -46,8 +46,8 @@ In this two-day workshop, we will start by discussing crowdsourcing in general a
 	* [Express Guide](http://expressjs.com/guide.html) and [Express examples](https://github.com/visionmedia/express/tree/master/examples)
 	* [Make yourself a MongoLab account](https://mongolab.com/signup/)
 	* [Node.js and MongoDB - Getting started with MongoJS](http://howtonode.org/node-js-and-mongodb-getting-started-with-mongojs)
-3. Please sign up for [Amazon Web Services](http://aws.amazon.com/) before the workshop. Note that there will be a nominal fee for starting a web instance for use in this workshop. If you are feeling ambitious and want to get a head start, check out [Ben Adel's tutorial on setting up an EC2 instance for a Node project](http://www.bennadel.com/blog/2321-How-I-Got-Node-js-Running-On-A-Linux-Micro-Instance-Using-Amazon-EC2.htm) or [a similar one for Windows](http://iconof.com/blog/how-to-install-setup-node-js-on-amazon-aws-ec2-complete-guide/)).
-* Please read the (mostly short) articles and check out the projects below
+1. Please sign up for [Amazon Web Services](http://aws.amazon.com/) before the workshop. Note that there will be a nominal fee for starting a web instance for use in this workshop. If you are feeling ambitious and want to get a head start, check out [Ben Adel's tutorial on setting up an EC2 instance for a Node project](http://www.bennadel.com/blog/2321-How-I-Got-Node-js-Running-On-A-Linux-Micro-Instance-Using-Amazon-EC2.htm) or [a similar one for Windows](http://iconof.com/blog/how-to-install-setup-node-js-on-amazon-aws-ec2-complete-guide/)).
+1. Please read the (mostly short) articles and check out the projects below
 
 ## Reading List
 

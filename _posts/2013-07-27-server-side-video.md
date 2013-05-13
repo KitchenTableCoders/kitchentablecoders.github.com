@@ -20,11 +20,11 @@ In this workshop, we will explore a suite of tools that can be used to create a 
 
 ###Agenda
 
-* First, we will look at a program called [youtube-dl](https://github.com/rg3/youtube-dl) that will allow us to gather video content from sites like YouTube, Vimeo, and many more.
-* Once we have acquired our source content, we will need to massage the format of the videos. To do this, we will use the legendary command line video workhorse: [ffmpeg](http://www.ffmpeg.org/)
-* We will use [MLT framework](http://www.mltframework.org/) ("melt") to edit the videos together
-* To automate the process, we will use Python (specifically, [the Subprocess module](http://docs.python.org/2/library/subprocess.html)). If you wish to use another scripting language, that's fine - the language itself is not important to the main techniques. However, I will be providing some sample code in Python.
-* We will talk generally about how to install on a server so that it is accessable on the web
+1. First, we will look at a program called [youtube-dl](https://github.com/rg3/youtube-dl) that will allow us to gather video content from sites like YouTube, Vimeo, and many more.
+1. Once we have acquired our source content, we will need to massage the format of the videos. To do this, we will use the legendary command line video workhorse: [ffmpeg](http://www.ffmpeg.org/)
+1. We will use [MLT framework](http://www.mltframework.org/) ("melt") to edit the videos together
+1. To automate the process, we will use Python (specifically, [the Subprocess module](http://docs.python.org/2/library/subprocess.html)). If you wish to use another scripting language, that's fine - the language itself is not important to the main techniques. However, I will be providing some sample code in Python.
+1. We will talk generally about how to install on a server so that it is accessable on the web
 
 There will be an optional (free) work session on the 28th (the next day) where participants may come back to the studio to work on their projects and get help from Jeff.
 
@@ -44,9 +44,9 @@ There will be an optional (free) work session on the 28th (the next day) where p
 
 ###Prerequisites
 
-* A laptop (preferably Mac or Linux)
-* Some experience with Python or another scripting language
-* Please install ffmpeg, mlt, sox ImageMagick, and Python (Python comes standard on a Mac) on your laptop so that we don't waste time setting up at the workshop. Depending on your platform, this can be a harrowing experience, so if you have trouble, please let me know. On a mac, I recommend using [Macports](http://www.macports.org/)†. On Linux, any decent package manager should have these packages. On Windows, you're on your own.
+1. A laptop (preferably Mac or Linux)
+1. Some experience with Python or another scripting language
+1. Please install ffmpeg, mlt, sox ImageMagick, and Python (Python comes standard on a Mac) on your laptop so that we don't waste time setting up at the workshop. Depending on your platform, this can be a harrowing experience, so if you have trouble, please let me know. On a mac, I recommend using [Macports](http://www.macports.org/)†. On Linux, any decent package manager should have these packages. On Windows, you're on your own.
 
 † If you are on a Mac and have <a href="http://www.macports.org/">MacPorts</a> installed, issue the following commands in the Terminal:
 
