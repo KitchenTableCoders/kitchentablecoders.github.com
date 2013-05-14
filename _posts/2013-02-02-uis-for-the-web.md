@@ -1,5 +1,4 @@
 ---
-layout: default
 layout: post
 style: text
 title: Programming User Interfaces for the Web
@@ -10,9 +9,8 @@ end: 3pm
 location: Brooklyn, NY
 registration_url: http://ktcfrontend.eventbrite.com
 published: true
+instructor: Tedb0t & David Nolen
 ---
-
-With Tedb0t & David Nolen
 
 Contemporary web applications have raised the bar for interactive user experiences in browsers of all shapes and sizes, and programming for this fluid medium is a unique challenge. It's not just a simple matter of html markup, but a sophisticated combination of control logic, data structure and visual styling. Modern UI development requires a thorough understanding of JavaScript, the model-view-controller (MVC) pattern, and asynchronous programming.
 

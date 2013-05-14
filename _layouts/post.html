@@ -31,10 +31,12 @@
                         <div class="article_inner" style="padding-right: 20px;">
                             <div class="leftcol" style="width: 380px;">
                                 <h1>{{ page.title }}</h1>
+                                
                                 {% if page.instructor %}
                                 <div id="class-instructor">
                                 with {{ page.instructor }}
                                 </div>
+                                {% endif %}
 
                                 <div class="content">{{ content }}</div>
                             </div>
@@ -61,7 +63,7 @@
                                         {{ page.location }}
                                     </div>
                               
-                                    {% endif %}
+                                    
                                     <div id="fee-list">
                                         {% for fee in page.fee_list %}
                                         <div>{{ fee[0] }} - {{ fee[1] }}</div>
