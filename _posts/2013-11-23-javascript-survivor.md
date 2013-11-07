@@ -7,7 +7,7 @@ upcoming: true
 start: 12pm
 end: 4pm
 location: Brooklyn, NY
-registration_url: ""
+registration_url: "https://www.eventbrite.com/event/9226866807"
 fee_list: [["Students", "$60"],
            ["Freelancers", "$120"],
            ["Corporate", "$250"]]
