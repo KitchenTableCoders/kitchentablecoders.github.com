@@ -3,7 +3,7 @@ layout: post
 style: text
 title: Mechanical Turk Workshop
 class_date: 2013-08-10 - 2013-09-11
-upcoming: true
+upcoming: false
 start: noon
 end: 5pm
 location: Brooklyn, NY

@@ -3,7 +3,7 @@ layout: post
 style: text
 title: Intermediate Creative Coding with openFrameworks
 class_date: 2013-09-21 through 2013-10-26
-upcoming: true
+upcoming: false
 start: 1pm
 end: 5pm
 location: Brooklyn, NY
