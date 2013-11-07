@@ -10,7 +10,7 @@ location: Brooklyn, NY
 registration_url: ""
 fee_list: [["Students", "$60"],
            ["Freelancers", "$120"],
-           ["Corporate", "250"]]
+           ["Corporate", "$250"]]
 published: true
 instructor: David Nolen
 ---
