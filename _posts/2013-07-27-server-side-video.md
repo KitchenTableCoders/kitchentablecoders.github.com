@@ -3,7 +3,7 @@ layout: post
 style: text
 title: Server-Side Video Editing
 class_date: 2013-07-27
-upcoming: true
+upcoming: false
 start: 1pm
 end: 5pm
 location: Brooklyn, NY
