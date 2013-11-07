@@ -7,7 +7,7 @@ upcoming: true
 start: 12pm
 end: 4pm
 location: Brooklyn, NY
-registration_url: http://www.eventbrite.com/event/5299167954
+registration_url: ""
 fee_list: [["Students", "$60"],
            ["Freelancers", "$120"],
            ["Corporate", "250"]]
@@ -21,9 +21,10 @@ We could all use some JavaScript survival skills in a pinch. This
 class will show you how to write clean client side JavaScript using
 jQuery, Underscore and JavaScript Templates. We'll emphasize good
 functional style to manage code complexity. We'll also cover how to
-use browser based developer tools effectively and useful approaches
-for cross browser testing (shaking fist at Internet Explorer). Expect
-to leave the class with tools to write JavaScript fearlessly.
+use browser based developer tools effectively and demonstrate useful
+approaches for cross browser testing (shakes fist at Internet
+Explorer). Expect to leave the class with adequate tools to write
+JavaScript fearlessly when backed into a corner.
 
 ### Prerequisites
 
