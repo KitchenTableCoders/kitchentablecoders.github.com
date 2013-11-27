@@ -17,16 +17,16 @@ summary:
 Node.js gives creative developers the ability to quickly prototype and
 create real-time multi-user experiences.
 
-In this workshop we’ll build a basic Node.js server on our laptops and
+In this workshop we'll build a basic Node.js server on our laptops and
 use WebSockets to build a simple realtime multiuser graphical
 environment in a web browser. However we won't stop there, we'll show
 you how to hook up sensors and electronics to create physical controls
 for multiplayer Pong!
 
 In order to allow us more time to code, we kindly ask that you arrive
-with Node.js installed on your laptop (you’ll need to be running a
+with Node.js installed on your laptop (you'll need to be running a
 local server). You can find installers for your operating system here,
 <a href="http://nodejs.org/#download">http://nodejs.org/#download</a>
 
-*Prerequisites:* This workshop assumes you have basic familiarity with at least one
-programming language.
+*Prerequisites:* This workshop assumes you have basic familiarity with
+at least one programming language.

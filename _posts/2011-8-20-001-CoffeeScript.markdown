@@ -14,7 +14,13 @@ fee_list: [["Students", "$60"],
 summary: CoffeeScript takes some of the best ideas from languages like Ruby and Python, adds its own flairs, and yet stays true to the soul JavaScript.
 ---
 
-For a programming language less than two years old, CoffeeScript has created a lot of buzz and deservedly so. CoffeeScript takes some of the best ideas from languages like Ruby and Python, adds its own flairs, and yet stays true to the soul JavaScript. In this class we’ll cover the essence of CoffeeScript as well as how to leverage it for client-side development and basic server-side development with Node.js. This class assumes intermediate experience with at least one other object oriented programming language.
-
+For a programming language less than two years old, CoffeeScript has
+created a lot of buzz and deservedly so. CoffeeScript takes some of
+the best ideas from languages like Ruby and Python, adds its own
+flairs, and yet stays true to the soul JavaScript. In this class we'll
+cover the essence of CoffeeScript as well as how to leverage it for
+client-side development and basic server-side development with
+Node.js. This class assumes intermediate experience with at least one
+other object oriented programming language.
 
 *Prerequisites:* Web browser.

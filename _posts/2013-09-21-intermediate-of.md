@@ -15,23 +15,59 @@ published: true
 instructor: Jeff Crouse
 ---
 
-####This is a 6 week workshop. Saturdays, 1pm-5pm, September 21-October 26th
+####This is a 6 week workshop. Saturdays, 1pm-5pm, September
+    21-October 26th
 
-Have you been working with Processing or ActionScript, but need more performance to realize your interactive project? Are you a JavaScript hacker who'd like to add c++ to her arsenal of skills? If so, it's probably time to make the jump to [openFrameworks](http://www.openframeworks.cc), an open source c++ toolkit for creative coding. OpenFrameworks is not only a very powerful tool for creative coding, but a great way to enter the sometimes daunting world of c++. For just a few examples of the type of things that are possible with openFrameworks, check out the oF gallery here.
+Have you been working with Processing or ActionScript, but need more
+performance to realize your interactive project? Are you a JavaScript
+hacker who'd like to add c++ to her arsenal of skills? If so, it's
+probably time to make the jump to
+[openFrameworks](http://www.openframeworks.cc), an open source c++
+toolkit for creative coding. OpenFrameworks is not only a very
+powerful tool for creative coding, but a great way to enter the
+sometimes daunting world of c++. For just a few examples of the type
+of things that are possible with openFrameworks, check out the oF
+gallery here.
 
-This *6-week intensive* workshop is for coders who are already familiar with object oriented programming concepts, but would like to dive into openFrameworks. We will cover topics such as interfacing with web services, intermediate-level oF/openGL classes, common computer vision techniques, and working with addons. For a full list of topics covered, please see the agenda below.
+This *6-week intensive* workshop is for coders who are already
+familiar with object oriented programming concepts, but would like to
+dive into openFrameworks. We will cover topics such as interfacing
+with web services, intermediate-level oF/openGL classes, common
+computer vision techniques, and working with addons. For a full list
+of topics covered, please see the agenda below.
 
-Participants are encouraged (but not required) to come in with a specific idea for a project they'd like to do. Each week, we will work for 3 hours on covering new concepts, and then (time permitting) spend the last hour working on individual projects. Additional "studio/office hours" for working on and getting assitance with projects can be arranged for a nominal fee.
+Participants are encouraged (but not required) to come in with a
+specific idea for a project they'd like to do. Each week, we will work
+for 3 hours on covering new concepts, and then (time permitting) spend
+the last hour working on individual projects. Additional
+"studio/office hours" for working on and getting assitance with
+projects can be arranged for a nominal fee.
 
 ###Prerequisites
 
-This is an *intermediate level* workshop. You must be comfortable with object oriented programming concepts to participate. If you aren't sure whether you are ready to take this workshop, please ask me. If you would like to take this workshop but aren't sure you meet the prerequisites, please contact me and let me know. If there is enough interest, I will run a 3 week "Introduction to Creative Coding with openFrameworks" workshop before this one, or we can arrange one-on-one tutoring to prepare you for this workshop.
+This is an *intermediate level* workshop. You must be comfortable with
+object oriented programming concepts to participate. If you aren't
+sure whether you are ready to take this workshop, please ask me. If
+you would like to take this workshop but aren't sure you meet the
+prerequisites, please contact me and let me know. If there is enough
+interest, I will run a 3 week "Introduction to Creative Coding with
+openFrameworks" workshop before this one, or we can arrange one-on-one
+tutoring to prepare you for this workshop.
 
-_IMPORTANT_ Participants should [download and install openFrameworks](http://www.openframeworks.cc/download/) (and appropriate IDE) and run all examples in the "examples" folder before the first workshop. If you need help with either of these steps, please contact us.</p>
+_IMPORTANT_ Participants should
+[download and install openFrameworks](http://www.openframeworks.cc/download/)
+(and appropriate IDE) and run all examples in the "examples" folder
+before the first workshop. If you need help with either of these
+steps, please contact us.</p>
 
 ###Agenda
 
-This is is a rough outline of the topics that we will cover in the workshop. I will try my best to get through every topic listed here. However, at Kitchen Table Coders we keep wokshop sizes very small so that we can personalize each one as much as possible. So it may change over the course of the class based on interest and skill level.
+This is is a rough outline of the topics that we will cover in the
+workshop. I will try my best to get through every topic listed
+here. However, at Kitchen Table Coders we keep wokshop sizes very
+small so that we can personalize each one as much as possible. So it
+may change over the course of the class based on interest and skill
+level.
 
 ### Week 1: Sept 21 - Introduction
 
@@ -55,7 +91,8 @@ This is is a rough outline of the topics that we will cover in the workshop. I w
 
 ### Week 3: October 5 - Networking/Web
 
-* [ofxLibWebSockets](https://github.com/labatrockwell/ofxLibwebsockets)
+*
+  [ofxLibWebSockets](https://github.com/labatrockwell/ofxLibwebsockets)
 * ofURLFileLoader
 * interfacing with web services (REST, JSON)
 * Flickr, Twitter, YouTube, EchoNest, Awesomium
@@ -84,6 +121,11 @@ This is is a rough outline of the topics that we will cover in the workshop. I w
 
 ### Week 6: October 26: Buffer Week
 
-This week will either be used to cover stuff we didn't get to in the previous weeks, or any topic that the participants wish to cover. Last year, we did a basic Unity introduction and some additional Kinect lessons. Oher potential topics could be iOS development, physics simulators, or just about any other addon that you can find at [ofxAddons](http://www.ofxaddons.com).
+This week will either be used to cover stuff we didn't get to in the
+previous weeks, or any topic that the participants wish to cover. Last
+year, we did a basic Unity introduction and some additional Kinect
+lessons. Oher potential topics could be iOS development, physics
+simulators, or just about any other addon that you can find at
+[ofxAddons](http://www.ofxaddons.com).
 
 Please contact us with any questions/concerns/suggestions.

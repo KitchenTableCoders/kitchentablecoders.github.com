@@ -15,11 +15,21 @@ summary: Learn about map, reduce, closures and many other functional programming
 published: false
 ---
 
-Once maligned by nearly everyone, JavaScript has now amassed an incredible number of devoted fans and practitioners. And why not? JavaScript is the at the heart of where the web is going and projects like Node.js are determined to expand JavaScript beyond clients.
+Once maligned by nearly everyone, JavaScript has now amassed an
+incredible number of devoted fans and practitioners. And why not?
+JavaScript is the at the heart of where the web is going and projects
+like Node.js are determined to expand JavaScript beyond clients.
 
-One fascinating side-effect of JavaScript’s popularity is that functional programming concepts, previously academic curiosities, are now going mainstream. This class explores the idea of first class functions, closures, map, reduce, filter, and a whole host of other incredibly useful tricks from the perspective of JavaScript. If you think objects are fun, you’ll leave this class with a whole new set of approaches to consider in your projects.
+One fascinating side-effect of JavaScript's popularity is that
+functional programming concepts, previously academic curiosities, are
+now going mainstream. This class explores the idea of first class
+functions, closures, map, reduce, filter, and a whole host of other
+incredibly useful tricks from the perspective of JavaScript. If you
+think objects are fun, you'll leave this class with a whole new set of
+approaches to consider in your projects.
 
-This class is intended for people who have intermediate to advanced experienced in at least one other programming language.
+This class is intended for people who have intermediate to advanced
+experienced in at least one other programming language.
 
 *Prerequisites:* Web browser.
 
