@@ -3,7 +3,7 @@ layout: post
 style: text
 title: JavaScript Survivor
 class_date: 2013-11-23
-upcoming: true
+upcoming: false
 start: 12pm
 end: 4pm
 location: Brooklyn, NY
