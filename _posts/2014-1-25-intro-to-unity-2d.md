@@ -4,8 +4,8 @@ style: text
 title: Game Changer, Introduction to Unity2D
 class_date: 2014-1-25
 upcoming: true
-start: 12pm
-end: 4:00pm
+start: 4pm
+end: 8:00pm
 location: Brooklyn, NY
 registration_url: "http://www.eventbrite.com/e/game-changer-introduction-to-unity2d-tickets-9941847333"
 fee_list: [["Students", "$80"],
