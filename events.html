@@ -14,7 +14,7 @@ description: Code Salon
 
 <ul class="posts">
     {% for post in site.posts %}
-    {% if post.upcoming and post.categories contains event' %}
+    {% if post.upcoming and post.categories contains 'event' %}
     <li class="article-link">
         <date title="{{ post.date | date_to_xmlschema }}">
             <span class="day-of-week">{{ post.date | date: '%A' }}</span>
