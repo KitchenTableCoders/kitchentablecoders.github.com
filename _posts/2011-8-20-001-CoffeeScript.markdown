@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: CoffeeScript and You
 class_date: 2011-8-20

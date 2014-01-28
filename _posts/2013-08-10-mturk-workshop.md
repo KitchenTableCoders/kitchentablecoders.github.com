@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Mechanical Turk Workshop
 class_date: 2013-08-10 - 2013-09-11

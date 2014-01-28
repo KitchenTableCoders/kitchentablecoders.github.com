@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: JavaScript Survivor
 class_date: 2013-11-23

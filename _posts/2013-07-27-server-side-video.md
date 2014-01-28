@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Server-Side Video Editing
 class_date: 2013-07-27

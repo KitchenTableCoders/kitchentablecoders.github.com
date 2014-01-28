@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Intro to coding data visualization tools with Processing
 class_date: 2012-05-26

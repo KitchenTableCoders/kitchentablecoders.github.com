@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Introduction to Node.js (and a taste of functional programming)
 class_date: 2011-4-30

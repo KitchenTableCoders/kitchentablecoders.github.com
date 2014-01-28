@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Fundamentals of Web Applications
 class_date: 2012-07-07

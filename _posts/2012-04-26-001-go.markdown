@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Kitchen Table GO
 class_date: 2012-04-26

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Art Without Object
 class_date: 2012-05-19

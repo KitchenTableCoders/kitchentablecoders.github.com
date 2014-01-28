@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Intermediate Creative Coding with openFrameworks (Section B)
 class_date: 2012-10-17 through 2012-11-29

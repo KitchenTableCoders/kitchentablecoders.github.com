@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Wireless Projects with XBee and Wifi
 class_date: 2012-03-03

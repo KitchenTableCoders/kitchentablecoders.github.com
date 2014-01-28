@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Fun Functional JavaScript
 class_date: 2011-8-13

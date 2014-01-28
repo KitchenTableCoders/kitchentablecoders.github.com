@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Programming User Interfaces for the Web
 class_date: 2013-02-02

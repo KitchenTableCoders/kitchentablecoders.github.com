@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Designing Printed Circuit Boards with EAGLE
 class_date: 2012-06-23

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: P-Comp The Missing Parts
 class_date: 2012-03-17

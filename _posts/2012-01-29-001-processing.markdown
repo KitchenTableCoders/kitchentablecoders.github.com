@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Creative Coding for Designers, using Processing
 class_date: 2012-01-29

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Live Coding with Processing and Clojure
 class_date: 2012-03-10

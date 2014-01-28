@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: An Introduction to LISP
 class_date: 2011-10-29

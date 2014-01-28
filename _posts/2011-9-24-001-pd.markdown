@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Designing Sound with PureData w/ Ted Hayes and Amit Pitaru
 class_date: 2011-9-24

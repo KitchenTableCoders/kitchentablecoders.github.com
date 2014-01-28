@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Intro to Objective-C
 class_date: 2011-5-14

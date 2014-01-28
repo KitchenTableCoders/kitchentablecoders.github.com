@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Arduino and NodeJS
 class_date: 2012-05-05

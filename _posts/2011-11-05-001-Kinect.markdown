@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: An Intro to the Kinect for Skeleton Tracking
 class_date: 2011-11-05

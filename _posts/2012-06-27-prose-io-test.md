@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Prose.io Test
 published: true

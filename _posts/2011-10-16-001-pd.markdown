@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Designing Sound with PureData w/ Ted Hayes
 class_date: 2011-10-16

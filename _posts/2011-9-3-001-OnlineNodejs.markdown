@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Online Multiuser Environments With Node.js
 class_date: 2011-9-03

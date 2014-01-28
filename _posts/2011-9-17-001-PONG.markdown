@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: PONG (JavaScript, OpenFrameworks)
 class_date: 2011-9-17

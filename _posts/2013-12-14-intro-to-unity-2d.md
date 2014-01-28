@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Game Changer, Introduction to Unity2D
 class_date: 2013-12-14

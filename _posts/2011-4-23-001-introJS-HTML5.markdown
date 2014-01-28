@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Introduction to Programming - Javascript and HTML 5 Canvas 
 class_date: 2011-4-23

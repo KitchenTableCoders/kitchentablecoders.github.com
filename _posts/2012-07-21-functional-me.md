@@ -1,5 +1,6 @@
 ---
 layout: post
+category: class
 style: text
 title: Functional Me
 class_date: 2012-07-21
