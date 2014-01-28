@@ -10,8 +10,26 @@ description: Code Salon
          <li class="selected"><a href="/events/">Events</a></li>
          <li><a href="mailto:hello@kitchentablecoders.com">Contact</a></li>
      </ul>
-	<br>
-	<br>
-	<p id="foot">Coming soon...</p>
-
 </div>
+
+<ul class="posts">
+    {% for post in site.posts %}
+    {% if post.upcoming and post.categories contains event' %}
+    <li class="article-link">
+        <date title="{{ post.date | date_to_xmlschema }}">
+            <span class="day-of-week">{{ post.date | date: '%A' }}</span>
+            <span class="month">{{ post.date | date: '%B' }}</span>
+            <span class="day">{{ post.date | date: '%d' }}</span>,
+            <span>@ Brooklyn, NY</span>
+        </date>
+        <div>
+            <a href="{{ post.url }}" class="h3">{{ post.title }}</a>
+        </div>
+        <p class="summary">
+            {{ post.summary }}
+        </p>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+

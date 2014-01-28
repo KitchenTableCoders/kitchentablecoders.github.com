@@ -20,7 +20,7 @@ description: Previous Workshops
 </header>
 <ul class="posts">
     {% for post in site.posts %}
-    {% if post.upcoming == false %}
+    {% if post.upcoming == false and post.categories contains 'class' %}
     <li>
         <div>
             <a href="{{ post.url }}" class="h3">{{ post.title }}</a>
