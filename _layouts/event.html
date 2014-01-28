@@ -1,0 +1,87 @@
+{% include system_head.html %}
+<body class="{{ page.layout }}">
+    <div id="page">
+        {% include header.html %}
+        <div id="main" class="{{ page.type }}" role="main">
+            <div class="main_inner">
+                <div class="article_inner">
+                    <div id="nav">
+                        <ul>
+                            <li><a href="/about/">About</a></li>
+                            <li class="selected"><a href="/">Courses</a></li>
+                            <li><a href="/events/">Events</a></li>
+                            <li><a href="mailto:hello@kitchentablecoders.com">Contact</a></li>
+                        </ul>
+                    </div>
+                    <header class="hd_article" style="margin-left:-40px">
+                        {% if page.upcoming and page.type != 'announce' %}
+                        <h1 class="isupcoming">
+                            An upcoming event
+                        </h1>
+                        {% else %}
+                        {% if page.type != 'announce' %}
+                        <h1 class="isupcoming">
+                            A past event
+                        </h1>
+                        {% endif %}
+                        {% endif %}
+                        <div id="back">
+                            <a href="/">back</a>
+                        </div>
+                    </header>
+                    <article class="the_article" style="margin-left:-40px;">
+                        <div class="article_inner" style="padding-right: 20px;">
+                            <div class="leftcol">
+                                <h1>{{ page.title }}</h1>
+                                <div class="content">{{ content }}</div>
+                            </div>
+                            <div class="rightcol">
+                                <div class="meta" style="font-size: 13px;">
+                         
+                                    {% if page.upcoming and page.type != 'announce' %}
+                                    <div>
+                                        <a href="{{page.registration_url}}" style="cursor:pointer;">
+                                            <button id="register" style="cursor:pointer">Register</button>
+                                        </a>
+                                    </div>
+                                    <div id="class-date">
+                                        <date title="{{ page.date | date_to_xmlschema }}">
+                                            <span class="day">{{ page.class_date | date: '%d' }}</span>
+                                            <span class="month"><abbr>{{ page.class_date | date: '%b' }}</abbr></span>
+                                            <span class="year">{{ page.class_date | date: '%Y' }}</span>
+                                            <div>
+                                                <span class="start">{{ page.start }}</span>-<span class="start">{{ page.end }}</span>
+                                            </div>
+                                        </date>
+                                    </div>
+
+                                    <div>
+                                        {{ page.location }}
+                                    </div>
+                                    
+                                    <div id="fee-list">
+                                        {{ page.fee }}
+                                    </div>
+
+                                    <div id="corporate">
+                                        Please <a id="corporate-contact" href="mailto:hello@kitchentablecoders.com?subject=Corporate account inquiry">contact us</a> for corporate sponsorship.
+                                    </div>
+                                    {% else %}
+
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </div>
+                        <div id="ask">
+                            <a id="ask-anything" href="mailto:hello@kitchentablecoders.com?subject=Question about the {{ page.title }} class">Ask us anything about this event</a>
+                            <div class="buttons"></div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </div><!-- id="main" -->
+        {% include footer.html %}
+    </div><!-- id="page" -->
+    {% include system_foot.html %}
+</body>
+</html>

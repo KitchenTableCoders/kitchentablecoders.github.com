@@ -234,12 +234,12 @@ em { font-weight: bold; }
 
 .the_article .leftcol {
     float: left;
-    width: 400px;
+    width: 380px;
 }
 
 .the_article .rightcol {
     float: right;
-    width: 150px;
+    width: 120px;
     padding-top: 30px;
     text-align: right;
 }
@@ -291,4 +291,16 @@ em { font-weight: bold; }
     position: absolute;
     left: 20px;
     top: 10px;
+}
+
+#main.announce .the_article h1 {
+    margin: 0;
+}
+
+#main.announce .leftcol {
+    width: auto;
+}
+
+#main.announce .rightcol {
+    display: none;
 }
