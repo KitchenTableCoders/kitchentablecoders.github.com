@@ -3,7 +3,7 @@ layout: event
 type: announce
 category: event
 style: text
-title: Announcing Code Salon
+title: Introducing Code Salon
 class_date: 2014-2-12
 upcoming: true
 start: 7pm
@@ -15,7 +15,7 @@ published: true
 instructor: David Nolen
 ---
 
-KTC Code Salon is a new Brooklyn Meetup curated by David Nolen to fill a gap in the NYC developer meetup scene. Hosted once a month at the Kitchen Table Coders studio in Brooklyn, imagine your favorite speakers from your favorite conferences speaking to an intimate audience in a relaxed setting: programming languages, distributed systems, databases, computer graphics, machine learning, hardware hacking, game design, you name it. That's Code Salon.
+KTC Code Salon is a new Brooklyn Meetup curated by David Nolen to fill a gap in the NYC developer meetup scene. Hosted each month at the Kitchen Table Coders studio in Brooklyn, imagine your favorite speakers from your favorite conferences speaking to an intimate audience in a relaxed setting: programming languages, distributed systems, databases, computer graphics, machine learning, hardware hacking, game design, you name it. That's Code Salon.
 
 Presentations will always be limited to 40 minutes, same as a conference. The remainder of the time is open for the type of discussion that we find so invigorating in the hallways of conferences (without the $2000 ticket/travel/hotel price tag).
 
