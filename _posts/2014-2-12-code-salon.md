@@ -21,6 +21,7 @@ Presentations will always be limited to 40 minutes, same as a conference. The re
 
 The $15 admission covers space, beer, and decreases the likelihood of flaking attendees. In return, the talks are guaranteed to be of the highest caliber from some of the most interesting technology speakers from around the world. Occasionally the cost of admission may be more or less depending on the speaker, but it will always be reasonable.
 
-If your company would like to sponsor a particular talk so that attendees can come for free, please get in touch and we'll prominently promote you on our various channels.
+We'll be announcing our first set of speakers in the next week or so.
 
-See you there!
+Stay tuned.
+
