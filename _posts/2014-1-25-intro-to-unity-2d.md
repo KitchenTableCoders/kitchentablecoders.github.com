@@ -4,7 +4,7 @@ category: class
 style: text
 title: Game Changer, Introduction to Unity2D
 class_date: 2014-1-25
-upcoming: true
+upcoming: false
 start: 4pm
 end: 8:00pm
 location: Brooklyn, NY
