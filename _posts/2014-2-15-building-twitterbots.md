@@ -2,7 +2,7 @@
 layout: post
 category: class
 style: text
-title: Look What I Bot: Building Automated Twitter Accounts
+title: Building Automated Twitter Accounts
 class_date: 2014-2-15
 upcoming: true
 start: 2pm
