@@ -2,7 +2,7 @@
 layout: event
 category: event
 style: text
-title: Code Salon - David Nolan
+title: Code Salon - David Nolen
 class_date: 2014-3-19
 upcoming: true
 start: 7pm
