@@ -1,5 +1,6 @@
 ---
 layout: event
+type: event
 category: event
 style: text
 title: Code Salon: Evan Czaplicki
