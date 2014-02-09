@@ -6,9 +6,9 @@ title: Building Automated Twitter Accounts
 class_date: 2014-2-15
 upcoming: true
 start: 2pm
-end: 6:00pm
+end: 6pm
 location: Brooklyn, NY
-registration_url: "http://www.eventbrite.com/e/look-what-i-bot-building-automated-twitter-accounts-tickets-10562898915"
+registration_url: http://www.eventbrite.com/e/look-what-i-bot-building-automated-twitter-accounts-tickets-10562898915
 fee_list: [["Students", "$80"],
            ["Freelancers", "$120"],
            ["Everyone Else", "$250"]]
@@ -18,7 +18,7 @@ instructor: Ramsey Nasser
 
 ### Description
 
-@everyword is tweeting the entire english language, one word at a time, every 30 minutes. @greatartbot is tweeting a new piece of digital art, four times a day. @555uhz is tweeting the film Top Gun in screenshots, one second at a time, every 30 minutes.
+everyword is tweeting the entire english language, one word at a time, every 30 minutes. greatartbot is tweeting a new piece of digital art, four times a day. 555uhz is tweeting the film Top Gun in screenshots, one second at a time, every 30 minutes.
  
 Twitter is full of accounts that are operated by robots rather than human beings. 
  
