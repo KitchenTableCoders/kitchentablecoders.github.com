@@ -9,7 +9,6 @@ start: 1pm
 end: 6pm
 location: Brooklyn, NY
 registration_url: http://kitchentable0.eventbrite.com/
-
 ---
 
 This Saturday (April 16th) at 1-6PM David Nolen and Amit Pitaru will be doing a free workshop at our Brooklyn Studio.
