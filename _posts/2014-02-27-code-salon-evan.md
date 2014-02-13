@@ -8,7 +8,7 @@ upcoming: true
 start: 7pm
 end: 9pm
 location: Brooklyn, NY
-registration_url: http://www.eventbrite.com/e/game-changer-introduction-to-unity2d-tickets-9941847333
+registration_url: http://www.eventbrite.com/e/code-salon-evan-czaplicki-tickets-10384057997
 fee_list: [["Ticket", "$15"]]
 published: true
 instructor: Evan Czaplicki
