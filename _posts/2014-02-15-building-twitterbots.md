@@ -4,7 +4,7 @@ category: class
 style: text
 title: Building Automated Twitter Accounts
 class_date: 2014-2-15
-upcoming: true
+upcoming: false
 start: 2pm
 end: 6pm
 location: Brooklyn, NY
