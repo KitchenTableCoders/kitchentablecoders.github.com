@@ -8,7 +8,7 @@ upcoming: true
 start: 2pm
 end: 5pm
 location: Brooklyn, NY
-registration_url: http://www.eventbrite.com/e/ejecta-javascript-canvas-running-natively-on-ios-tickets-10562995203
+registration_url: http://www.eventbrite.com/e/hacking-the-wacom-better-drawing-through-hardware-modification-tickets-10637804961
 fee_list: [["Students", "$60"],
            ["Freelancers", "$120"],
            ["Everyone Else", "$250"]]
