@@ -1,20 +1,22 @@
 ---
 layout: home
 title: _layouts
-description: Code Salon
+description: this is where your meta description for top page.
 ---
 <div id="nav">
      <ul>
          <li><a href="/about/">About</a></li>
-         <li><a href="/courses/">Courses</a></li>
-         <li class="selected"><a href="/events/">Events</a></li>
+         <li class="selected"><a href="/">Courses</a></li>
+         <li><a href="/events/">Events</a></li>
          <li><a href="mailto:hello@kitchentablecoders.com">Contact</a></li>
      </ul>
 </div>
 
+
+<!-- h1 id="upcoming">All upcoming workshops</h1-->
 <ul class="posts">
     {% for post in site.posts %}
-    {% if post.upcoming and post.categories contains 'event' %}
+    {% if post.upcoming and post.categories contains 'class' %}
     <li class="article-link">
         <date title="{{ post.date | date_to_xmlschema }}">
             <span class="day-of-week">{{ post.date | date: '%A' }}</span>

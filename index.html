@@ -6,16 +6,17 @@ description: this is where your meta description for top page.
 <div id="nav">
      <ul>
          <li><a href="/about/">About</a></li>
-         <li class="selected"><a href="/">Courses</a></li>
+         <li ><a href="/courses">Courses</a></li>
          <li><a href="/events/">Events</a></li>
          <li><a href="mailto:hello@kitchentablecoders.com">Contact</a></li>
      </ul>
-
 </div>
+
+
 <!-- h1 id="upcoming">All upcoming workshops</h1-->
 <ul class="posts">
     {% for post in site.posts %}
-    {% if post.upcoming and post.categories contains 'class' %}
+    {% if post.upcoming and (post.categories contains 'class' or post.categories contains 'event') %}
     <li class="article-link">
         <date title="{{ post.date | date_to_xmlschema }}">
             <span class="day-of-week">{{ post.date | date: '%A' }}</span>
@@ -39,6 +40,12 @@ description: this is where your meta description for top page.
     <a href="/previous/">See our previous workshops</a>
     <div class="caption">You can also ask us do redo them, and we'll do our best!</div>
 </div>
+
+<div id="previous" class="post-link">
+    <a href="/calendar/">View the full calendar</a>
+    <div class="caption">Check out the full listing of everything going on at KTC.</div>
+</div>
+
 <div id="suggest" class="post-link">
     <div class="linkimg">
         <div class="link">
