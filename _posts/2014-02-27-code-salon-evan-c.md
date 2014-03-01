@@ -4,7 +4,7 @@ category: event
 style: text
 title: Code Salon - Evan Czaplicki
 class_date: 2014-2-27
-upcoming: true
+upcoming: false
 start: 7pm
 end: 9pm
 location: Brooklyn, NY
