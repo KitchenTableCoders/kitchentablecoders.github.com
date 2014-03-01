@@ -4,7 +4,7 @@ category: class
 style: text
 title: Hacking the Wacom - Better Drawing through Hardware Modification
 class_date: 2014-03-1 
-upcoming: true
+upcoming: false
 start: 2pm
 end: 5pm
 location: Brooklyn, NY
