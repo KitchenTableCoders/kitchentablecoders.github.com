@@ -14,5 +14,20 @@ published: true
 instructor: David Nolen
 ---
 
-David Nolen has been programming JavaScript for a very long time. Suprisingly he doesn't mind it. He also contributes heavily to various Clojure libraries and projects including core.match, core.logic, core.async, and ClojureScript.
+###Turning Around: Reflections on Om
 
+In Bret Victor's [fantastic reading roundup for
+2013](http://worrydream.com/Links2013/), he comments in the margin
+that as developers we often ask the question "How can I do a better
+job today?" instead of the asking the question "How can we make a
+better tomorrow?". He uses the clever analogy of ants marching along a
+particular branch of a tree believing that it goes on forever.
+
+I've built user interfaces in anger with many different technologies,
+including AppKit, UIKit, Processing, Flash, OpenGL C++, and various
+JavaScript libraries and custom frameworks. Having walked down the
+mainstream branch for eight years, I believe there is another
+way. While I can't say what the other branches will offer, I'm turning
+around and this talk will document my lines of thinking in Om that
+reflect this. Hopefully we can collectively squint into the distance
+and see what other branches might hope to offer.
