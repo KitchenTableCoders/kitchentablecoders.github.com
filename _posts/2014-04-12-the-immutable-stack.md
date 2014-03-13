@@ -23,22 +23,31 @@ Only a basic understanding of Clojure is required.
 The following is a rough outline of the material we expect to cover:
 
 * Backend
+  
   * The Database: Datomic
+    
     * Schemas
     * Datomic Datalog
     * Transactions
     * Deployment
+  
   * The API: Ring / Jetty
+    
     * Middleware
     * Live development
     * Deployment
+
 * Frontend
+  
   * Developing ClojureScript Apps
+    
     * ClojureScript
     * Google Closure
     * lein-cljsbuild configuration
     * Source maps & debugging
+  
   * Applicaion State: UI as EDN
+    
     * Introduction to Om
     * Reusable components
     * Undo / Redo and Time Travel
