@@ -4,7 +4,7 @@ category: class
 style: text
 title: 3D Audio with Cinder and FMODEx
 class_date: 2014-03-22 
-upcoming: true
+upcoming: false
 start: 2pm
 end: 5pm
 location: Brooklyn, NY
