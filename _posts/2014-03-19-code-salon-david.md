@@ -4,7 +4,7 @@ category: event
 style: text
 title: Code Salon - David Nolen
 class_date: 2014-3-19
-upcoming: true
+upcoming: false
 start: 7pm
 end: 9pm
 location: Brooklyn, NY
