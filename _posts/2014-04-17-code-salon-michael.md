@@ -14,4 +14,6 @@ published: true
 instructor: Michael Bernstein
 ---
 
-Mike Bernstein is obsessed. Not with anything in particular, just in general. He's a Brooklyn, NYC based software developer and amateur Computer Scientist who writes at http://michaelrbernste.in and tweets (too much) at mrb_bk. He's given talks on Garbage Collection and Distributed Systems in the past and is very excited to hang and chat with fellow NYC obsessives.
+###The Research Omphalos
+
+Sometimes it feels like we're reading and reading and talking and talking and losing sight of what it is we're looking for. I have certainly been guilty of endlessly compiling more artifacts of knowledge than I can consume, turning learning into a fetish of collection. In an attempt to break out of these habits, I'd like to present some strands of study that I've pursued in the past few years and attempt to describe a future direction for research that partially explains what I've been up to and partially shows that I have no idea what I'm doing.
