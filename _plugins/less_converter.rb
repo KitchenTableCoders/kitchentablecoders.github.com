@@ -5,8 +5,8 @@ module Jekyll
   class LessConverter < Converter
     safe true
     priority :low
-    pygments_prefix "\n"
-    pygments_suffix "\n"
+    highlighter_prefix "\n"
+    highlighter_suffix "\n"
 
     def setup
       return if @setup

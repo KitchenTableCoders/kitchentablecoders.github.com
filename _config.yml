@@ -6,8 +6,8 @@ ga: UA-XXXXX-X              #Google Analytics ID
 sitemap: GOOGLEWEBMASTER    #Google webmaster verification code
 # END
 # CHOOSE YOUR PREFERENCE
-pygments:    true
-markdown:    maruku
+highlighter: pygments
+markdown:    kramdown
 permalink:   pretty
 # END
 exclude: [LICENSE, README.markdown, Rakefile]
