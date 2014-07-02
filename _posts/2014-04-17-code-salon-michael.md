@@ -4,7 +4,7 @@ category: event
 style: text
 title: Code Salon - Michael Bernstein
 class_date: 2014-4-17
-upcoming: true
+upcoming: false
 start: 7pm
 end: 9pm
 location: Brooklyn, NY

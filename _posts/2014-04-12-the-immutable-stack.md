@@ -4,7 +4,7 @@ category: class
 style: text
 title: The Immutable Stack
 class_date: 2014-4-12 
-upcoming: true
+upcoming: false
 start: 10am
 end: 6pm
 location: Brooklyn, NY

@@ -5,7 +5,7 @@ category: event
 style: text
 title: Introducing Code Salon
 class_date: 2014-2-12
-upcoming: true
+upcoming: false
 start: 7pm
 end: 9:00pm
 location: Brooklyn, NY
