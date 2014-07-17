@@ -4,7 +4,7 @@ category: event
 style: text
 title: Code Salon - Tomas Petricek
 class_date: 2014-7-07
-upcoming: true
+upcoming: false
 start: 7pm
 end: 9pm
 location: Brooklyn, NY
