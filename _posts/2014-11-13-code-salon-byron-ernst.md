@@ -2,7 +2,7 @@
 layout: event
 category: event
 style: text
-title: Code Salon - Lee Byron & Adam Ernst
+title: Code Salon - Lee Byron and Adam Ernst
 class_date: 2014-11-13
 upcoming: true
 start: 7pm
@@ -11,7 +11,7 @@ location: Brooklyn, NY
 registration_url: http://www.eventbrite.com/e/code-salon-lee-byron-adam-ernst-tickets-14180922521
 fee_list: [["Ticket", "$15"]]
 published: true
-instructor: Leey Byron & Adam Ernst
+instructor: Leey Byron and Adam Ernst
 ---
 
 ### Building Real Products With Immutable Data and Declarative UI
