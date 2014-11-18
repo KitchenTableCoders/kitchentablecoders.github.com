@@ -4,7 +4,7 @@ category: event
 style: text
 title: Code Salon - Lee Byron and Adam Ernst
 class_date: 2014-11-13
-upcoming: true
+upcoming: false
 start: 7pm
 end: 9pm
 location: Brooklyn, NY
