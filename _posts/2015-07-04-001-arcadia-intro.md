@@ -4,7 +4,7 @@ category: class
 style: text
 title: Introduction to Arcadia: Live Functional Programming for Video Games
 class_date: 2015-06-06
-upcoming: false
+upcoming: true
 start: 12pm
 end: 4pm
 location: Brooklyn, NY
