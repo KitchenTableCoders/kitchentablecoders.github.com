@@ -2,7 +2,7 @@
 layout: post
 category: class
 style: text
-title: Introduction to Arcadia: Live Functional Programming for Video Games
+title: Introduction to Arcadia&colon; Live Functional Programming for Video Games
 class_date: 2015-06-06
 upcoming: true
 start: 12pm
