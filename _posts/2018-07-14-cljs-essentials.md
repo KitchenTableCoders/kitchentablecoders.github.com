@@ -8,7 +8,7 @@ upcoming: true
 start: 9am
 end: 5pm
 location: Brooklyn, NY
-fee_list: ["Standard", "400"]
+fee_list: ["Standard", "$400"]
 published: true
 instructor: David Nolen
 ---

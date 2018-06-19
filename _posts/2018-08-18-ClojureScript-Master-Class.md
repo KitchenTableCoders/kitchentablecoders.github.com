@@ -8,7 +8,9 @@ upcoming: true
 start: 9am
 end: 5pm
 location: Brooklyn, NY
-fee_list: [["Standard", "800"]]
+fee_list: [["Standard", "$800"]]
+published: true
+instructor: David Nolen
 ---
 
 This workshop covers a wide variety of topics to level up your
