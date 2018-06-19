@@ -8,7 +8,8 @@ upcoming: true
 start: 9am
 end: 5pm
 location: Brooklyn, NY
-fee_list: ["Standard", "$400"]
+fee_list: [["Standard", "$400"]]
+registration_url: https://www.eventbrite.com/e/clojurescript-essentials-tickets-47181780977
 published: true
 instructor: David Nolen
 ---
