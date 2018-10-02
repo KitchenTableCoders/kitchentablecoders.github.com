@@ -10,7 +10,7 @@ end: 5pm
 location: Brooklyn, NY
 fee_list: [["Standard", "$800"]]
 published: true
-registration_url: https://www.eventbrite.com/e/clojurescript-master-class-tickets-47182560308
+registration_url: https://www.eventbrite.com/e/clojurescript-master-class-tickets-50916964010
 instructor: David Nolen
 ---
 
